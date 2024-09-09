@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2" sea_floor_height="-24">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/12_9_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/workbenches/blueprints_boat.mesh">
+			<transform 30="-107.623047" 31="-19.6053715" 32="148.839844"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/workbenches/workbench_clean.mesh">
+			<transform 30="-107.69043" 31="-21.4248962" 32="149.038086"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/12_9_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_12_9/nso_mod/decoration/workbenches/blueprints_boat__StaticObject_0_phys.phys">
+			<transform 30="-107.623047" 31="-19.6053715" 32="148.839844"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/workbenches/workbench_clean.phys">
+			<transform 30="-107.69043" 31="-21.4248962" 32="149.038086"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas>
+		<edit_area id="underwater_base">
+			<transform 00="1.1920929E-06" 02="-0.99999994" 20="0.99999994" 22="1.1920929E-06" 30="-76.43555" 31="-11.813138" 32="158.540039"/>
+			<size x="48" y="16" z="48"/>
+		</edit_area>
+	</edit_areas>
+	<interactables>
+		<interactable id="underwater_base_interact" target_object_id="underwater_base" label="Underwater Structure" interact_type="2">
+			<transform 30="-107.604492" 31="-18.7830582" 32="148.679688"/>
+			<size x="2.211229" y="1.861132" z="3.403433"/>
+		</interactable>
+	</interactables>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

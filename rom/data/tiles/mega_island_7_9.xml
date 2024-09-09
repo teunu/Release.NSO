@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2" sea_floor_height="-8">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/7_9_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rocks_paralel_small_01.mesh">
+			<transform 00="0.998782337" 01="-0.04933387" 10="0.04933387" 11="0.998782337" 30="363.978027" 31="24.82246" 32="-351.477539"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/7_9_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_7_9/nso_mod/fauna + terra/rocks/rocks_paralel_small_01__StaticObject_0_phys.phys">
+			<transform 00="0.998782337" 01="-0.04933387" 10="0.04933387" 11="0.998782337" 30="363.978027" 31="24.82246" 32="-351.477539"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

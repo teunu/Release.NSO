@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2" sea_floor_height="-16">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/11_9_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 00="0.9177071" 02="-0.397257715" 20="0.397257715" 22="0.9177071" 30="69.59277" 31="0.0884615257" 32="-287.59668"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.mesh">
+			<transform 00="0.9182109" 01="0.3956695" 02="0.0182870328" 10="-0.396079153" 11="0.917571068" 12="0.03441483" 20="-0.0031627554" 21="-0.03884319" 22="0.9992403" 30="66.3876953" 31="-0.486898363" 32="-284.107422"/>
+		</mesh>
+		<mesh id="StaticObject_10" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="96.60449" 31="-0.460818976" 32="-428.9795"/>
+		</mesh>
+		<mesh id="StaticObject_11" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 30="139.148438" 31="0.6041931" 32="-343.831055"/>
+		</mesh>
+		<mesh id="StaticObject_12" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="135.120117" 31="1.356211" 32="-343.5752"/>
+		</mesh>
+		<mesh id="StaticObject_13" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_1.mesh">
+			<transform 00="0.288938761" 01="0.19506076" 02="-0.937265158" 10="-0.05746465" 11="0.9807927" 12="0.186404452" 20="0.9556215" 21="1.49011626E-07" 22="0.294597656" 30="108.121094" 31="8.509287" 32="-387.064453"/>
+		</mesh>
+		<mesh id="StaticObject_14" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.mesh">
+			<transform 30="101.541992" 31="1.37859571" 32="-392.576172"/>
+		</mesh>
+		<mesh id="StaticObject_15" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="96.9189453" 31="1.56998408" 32="-392.28125"/>
+		</mesh>
+		<mesh id="StaticObject_16" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="100.676758" 31="2.132051" 32="-389.636719"/>
+		</mesh>
+		<mesh id="StaticObject_17" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 30="116.482422" 31="4.821004" 32="-368.047852"/>
+		</mesh>
+		<mesh id="StaticObject_18" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.mesh">
+			<transform 30="117.811523" 31="5.179621" 32="-371.219727"/>
+		</mesh>
+		<mesh id="StaticObject_19" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="113.400391" 31="3.65720963" 32="-375.208984"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="65.50586" 31="-1.02909231" 32="-290.12207"/>
+		</mesh>
+		<mesh id="StaticObject_20" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="119.629883" 31="5.26933861" 32="-367.416016"/>
+		</mesh>
+		<mesh id="StaticObject_21" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="89.22949" 31="8.696103" 32="-397.856445"/>
+		</mesh>
+		<mesh id="StaticObject_22" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 00="-0.500386238" 01="-0.8582277" 02="0.114269204" 10="0.4185991" 11="-0.355341256" 12="-0.8357669" 20="0.7578836" 21="-0.3703737" 22="0.537061751" 30="86.26172" 31="9.124094" 32="-396.7422"/>
+		</mesh>
+		<mesh id="StaticObject_23" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 30="217.946289" 31="-1.09478533" 32="-378.2793"/>
+		</mesh>
+		<mesh id="StaticObject_24" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="219.991211" 31="0.160695478" 32="-381.0254"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 00="0.2987441" 02="-0.954333246" 20="0.954333246" 22="0.2987441" 30="59.4072266" 31="-2.01243544" 32="-308.754883"/>
+		</mesh>
+		<mesh id="StaticObject_4" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.mesh">
+			<transform 30="55.7089844" 31="-2.715229" 32="-308.239258"/>
+		</mesh>
+		<mesh id="StaticObject_5" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="53.92383" 31="-3.73846483" 32="-363.0332"/>
+		</mesh>
+		<mesh id="StaticObject_6" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="56.19922" 31="-4.69416761" 32="-362.3916"/>
+		</mesh>
+		<mesh id="StaticObject_7" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.mesh">
+			<transform 30="53.8564453" 31="-4.43290234" 32="-359.486328"/>
+		</mesh>
+		<mesh id="StaticObject_8" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="58.6953125" 31="-4.12190676" 32="-363.94043"/>
+		</mesh>
+		<mesh id="StaticObject_9" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 30="94.38379" 31="-1.25040853" 32="-425.0547"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="mesh_0" file_name="nso_mod/meshes/tiles/11_9_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="mesh_0_IdConflicted_0" file_name="nso_mod/meshes/tiles/11_9_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 00="0.9177071" 02="-0.397257715" 20="0.397257715" 22="0.9177071" 30="69.59277" 31="0.0884615257" 32="-287.59668"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_10_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="96.60449" 31="-0.460818976" 32="-428.9795"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_11_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 30="139.148438" 31="0.6041931" 32="-343.831055"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_12_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="135.120117" 31="1.356211" 32="-343.5752"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_13_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_1.phys">
+			<transform 00="0.288938761" 01="0.19506076" 02="-0.937265158" 10="-0.05746465" 11="0.9807927" 12="0.186404452" 20="0.9556215" 21="1.49011626E-07" 22="0.294597656" 30="108.121094" 31="8.509287" 32="-387.064453"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_14_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.phys">
+			<transform 30="101.541992" 31="1.37859571" 32="-392.576172"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_15_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="96.9189453" 31="1.56998408" 32="-392.28125"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_16_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="100.676758" 31="2.132051" 32="-389.636719"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_17_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 30="116.482422" 31="4.821004" 32="-368.047852"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_18_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.phys">
+			<transform 30="117.811523" 31="5.179621" 32="-371.219727"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_19_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="113.400391" 31="3.65720963" 32="-375.208984"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.phys">
+			<transform 00="0.9182109" 01="0.3956695" 02="0.0182870328" 10="-0.396079153" 11="0.917571068" 12="0.03441483" 20="-0.0031627554" 21="-0.03884319" 22="0.9992403" 30="66.3876953" 31="-0.486898363" 32="-284.107422"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_20_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="119.629883" 31="5.26933861" 32="-367.416016"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_21_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="89.22949" 31="8.696103" 32="-397.856445"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_22_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 00="-0.500386238" 01="-0.8582277" 02="0.114269204" 10="0.4185991" 11="-0.355341256" 12="-0.8357669" 20="0.7578836" 21="-0.3703737" 22="0.537061751" 30="86.26172" 31="9.124094" 32="-396.7422"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_23_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 30="217.946289" 31="-1.09478533" 32="-378.2793"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_24_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="219.991211" 31="0.160695478" 32="-381.0254"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="65.50586" 31="-1.02909231" 32="-290.12207"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_3_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 00="0.2987441" 02="-0.954333246" 20="0.954333246" 22="0.2987441" 30="59.4072266" 31="-2.01243544" 32="-308.754883"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_4_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.phys">
+			<transform 30="55.7089844" 31="-2.715229" 32="-308.239258"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_5_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="53.92383" 31="-3.73846483" 32="-363.0332"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_6_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="56.19922" 31="-4.69416761" 32="-362.3916"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_7_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.phys">
+			<transform 30="53.8564453" 31="-4.43290234" 32="-359.486328"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_8_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="58.6953125" 31="-4.12190676" 32="-363.94043"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_9_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 30="94.38379" 31="-1.25040853" 32="-425.0547"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers>
+		<markers id="chasms" marker_type="13" string_data="The chasms" icon="12">
+			<transform 30="8.416933" 31="32.901024" 32="11.388189"/>
+		</markers>
+	</tile_markers>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

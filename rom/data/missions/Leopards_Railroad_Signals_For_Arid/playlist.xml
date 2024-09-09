@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist file_store="4" name="[LRS] Leopard's Railroad Signals - Arid">
+	<locations location_id_counter="124" component_id_counter="374">
+		<locations>
+			<l id="61" tile="data/tiles/arid_island_3_7.xml" name="ARID_ISLAND_3_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="144" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.623789" 02="-0.781593" 20="0.781593" 22="-0.623789" 30="431.453003" 31="23.401381" 32="-453.603485"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="145" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.638092" 02="0.76996" 20="-0.76996" 22="0.638092" 30="378.500702" 31="23.308519" 32="-395.145813"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="62" tile="data/tiles/arid_island_3_9.xml" name="ARID_ISLAND_3_9" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="146" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999745" 02="-0.022577" 20="0.022577" 22="-0.999745" 30="97.450432" 31="29.400049" 32="130.128296"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="147" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.99964" 02="0.026822" 20="-0.026822" 22="0.99964" 30="106.816597" 31="29.470039" 32="206.404205"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="148" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999175" 02="-0.040608" 20="0.040608" 22="-0.999175" 30="102.618599" 31="29.478951" 32="300.839905"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="149" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.990434" 02="0.137988" 20="-0.137988" 22="-0.990434" 30="99.140907" 31="29.749689" 32="353.356995"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="63" tile="data/tiles/arid_island_3_10.xml" name="ARID_ISLAND_3_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="150" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.968699" 02="0.24824" 20="-0.24824" 22="0.968699" 30="79.600273" 31="29.74968" 32="-325.933685"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="151" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.998639" 02="0.052162" 20="-0.052162" 22="0.998639" 30="77.152107" 31="29.4277" 32="-273.853699"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="152" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.997506" 02="-0.070583" 20="0.070583" 22="-0.997506" 30="66.314034" 31="29.490231" 32="-115.803703"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="153" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.997012" 02="0.077253" 20="-0.077253" 22="0.997012" 30="49.33614" 31="29.387409" 32="-43.38205"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="64" tile="data/tiles/arid_island_4_6.xml" name="ARID_ISLAND_4_6" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="154" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.564522" 02="0.825418" 20="-0.825418" 22="0.564522" 30="-338.566711" 31="23.14743" 32="387.359711"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="155" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.568085" 02="0.82297" 20="-0.82297" 22="0.568085" 30="-345.347198" 31="23.05617" 32="377.470612"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="65" tile="data/tiles/arid_island_5_5.xml" name="ARID_ISLAND_5_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="156" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.635842" 02="-0.771819" 20="0.771819" 22="-0.635842" 30="-176.919403" 31="36.63438" 32="230.834"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="157" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.660401" 02="0.750914" 20="-0.750914" 22="0.660401" 30="-225.045303" 31="31.587099" 32="287.838806"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="158" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.769079" 02="-0.639154" 20="0.639154" 22="-0.769079" 30="-424.340302" 31="23.27433" 32="482.397186"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="159" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.771889" 02="-0.635758" 20="0.635758" 22="-0.771889" 30="-414.988495" 31="23.64171" 32="490.035187"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="66" tile="data/tiles/arid_island_5_6.xml" name="ARID_ISLAND_5_6" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="160" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.517018" 02="-0.855974" 20="0.855974" 22="0.517018" 30="-76.026604" 31="22.77409" 32="418.10321"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="161" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.538906" 02="0.842366" 20="-0.842366" 22="-0.538906" 30="-143.335602" 31="22.93186" 32="390.568909"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="162" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.492298" 02="-0.870427" 20="0.870427" 22="0.492298" 30="-169.798798" 31="23.397779" 32="361.018188"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="163" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.49258" 02="-0.870267" 20="0.870267" 22="0.49258" 30="-175.695801" 31="22.86277" 32="371.50531"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="67" tile="data/tiles/arid_island_5_7.xml" name="ARID_ISLAND_5_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="164" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.704984" 02="0.709223" 20="-0.709223" 22="-0.704984" 30="386.188293" 31="48.109619" 32="-206.661102"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="68" tile="data/tiles/arid_island_6_7.xml" name="ARID_ISLAND_6_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="165" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.953223" 02="0.302269" 20="-0.302269" 22="-0.953223" 30="-329.973694" 31="75.950241" 32="327.899414"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="166" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.951383" 02="-0.308009" 20="0.308009" 22="0.951383" 30="-319.089294" 31="76.731987" 32="401.002502"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="167" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.911173" 02="-0.412025" 20="0.412025" 22="0.911173" 30="-431.4534" 31="71.364433" 32="52.010761"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="168" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.601531" 02="-0.79885" 20="0.79885" 22="-0.601531" 30="-360.214813" 31="67.336517" 32="-201.988403"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="169" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.460404" 02="0.887709" 20="-0.887709" 22="0.460404" 30="-257.644012" 31="67.255783" 32="-263.459808"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="170" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.458649" 02="0.888618" 20="-0.888618" 22="0.458649" 30="-178.749207" 31="67.485184" 32="-313.683685"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="171" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.543735" 02="0.839257" 20="-0.839257" 22="0.543735" 30="-90.138786" 31="67.492813" 32="-377.496002"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="172" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.474029" 02="0.880509" 20="-0.880509" 22="0.474029" 30="-11.74657" 31="67.408089" 32="-389.248291"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="173" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.477069" 02="-0.878866" 20="0.878866" 22="-0.477069" 30="61.228149" 31="67.41423" 32="-431.602203"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="69" tile="data/tiles/arid_island_6_12.xml" name="ARID_ISLAND_6_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="174" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.699517" 02="0.714616" 20="-0.714616" 22="0.699517" 30="-152.739304" 31="22.9396" 32="510.230804"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="175" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.717466" 02="-0.696594" 20="0.696594" 22="-0.717466" 30="-117.848" 31="23.06673" 32="457.067688"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="176" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.469969" 02="0.882683" 20="-0.882683" 22="0.469969" 30="4.522978" 31="23.251699" 32="381.476807"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="177" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.477064" 02="0.878869" 20="-0.878869" 22="0.477064" 30="-0.73768" 31="23.114599" 32="371.383698"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="70" tile="data/tiles/arid_island_7_10.xml" name="ARID_ISLAND_7_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="178" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.469517" 02="0.882924" 20="-0.882924" 22="-0.469517" 30="110.622498" 31="23.46203" 32="-137.068802"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="179" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.453502" 02="0.891255" 20="-0.891255" 22="-0.453502" 30="116.560097" 31="23.100479" 32="-148.437195"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="71" tile="data/tiles/arid_island_7_12.xml" name="ARID_ISLAND_7_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="180" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.461933" 02="-0.886915" 20="0.886915" 22="-0.461933" 30="245.804596" 31="23.070061" 32="-97.916138"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="181" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.431658" 02="0.902037" 20="-0.902037" 22="0.431658" 30="184.935898" 31="22.65774" 32="-54.809479"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="182" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.400333" 02="-0.91637" 20="0.91637" 22="-0.400333" 30="135.470703" 31="23.370661" 32="-45.942558"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="183" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.40021" 02="-0.916423" 20="0.916423" 22="-0.40021" 30="140.222397" 31="23.36832" 32="-34.866009"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="72" tile="data/tiles/arid_island_7_13.xml" name="ARID_ISLAND_7_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="184" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.993862" 02="-0.110628" 20="0.110628" 22="0.993862" 30="-177.617905" 31="23.37211" 32="-14.84738"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="185" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.989539" 02="0.144263" 20="-0.144263" 22="-0.989539" 30="-200.029007" 31="23.37216" 32="-87.563187"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="186" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.989495" 02="-0.144564" 20="0.144564" 22="0.989495" 30="-191.032806" 31="23.37385" 32="-110.393402"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="187" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.990014" 02="-0.140972" 20="0.140972" 22="0.990014" 30="-203.043503" 31="23.37121" 32="-108.741997"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="73" tile="data/tiles/arid_island_8_10.xml" name="ARID_ISLAND_8_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="188" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.443743" 02="-0.896154" 20="0.896154" 22="-0.443743" 30="171.954605" 31="23.377991" 32="4.934916"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="189" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.444535" 02="-0.895762" 20="0.895762" 22="-0.444535" 30="177.605499" 31="23.335091" 32="15.92953"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="74" tile="data/tiles/arid_island_8_11.xml" name="ARID_ISLAND_8_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="190" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.99994" 02="0.010924" 20="-0.010924" 22="0.99994" 30="-310.738892" 31="22.81963" 32="206.951508"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="191" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999855" 02="-0.017035" 20="0.017035" 22="-0.999855" 30="-322.093689" 31="23.337919" 32="136.451508"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="192" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.887331" 02="-0.461134" 20="0.461134" 22="0.887331" 30="-384.412201" 31="23.256571" 32="-216.293701"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="193" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.885089" 02="-0.465422" 20="0.465422" 22="0.885089" 30="-395.341003" 31="23.335569" 32="-210.541199"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="75" tile="data/tiles/arid_island_8_14.xml" name="ARID_ISLAND_8_14" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="194" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.027304" 02="-0.999627" 20="0.999627" 22="0.027304" 30="-429.205109" 31="8.125924" 32="205.249298"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="195" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.006102" 02="0.999981" 20="-0.999981" 22="-0.006102" 30="-505.06189" 31="8.15528" 32="217.0177"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="76" tile="data/tiles/arid_island_9_6.xml" name="ARID_ISLAND_9_6" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="196" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.819618" 02="-0.57291" 20="0.57291" 22="-0.819618" 30="472.408691" 31="29.53772" 32="-191.680206"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="77" tile="data/tiles/arid_island_9_10.xml" name="ARID_ISLAND_9_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="197" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.901214" 02="0.433373" 20="-0.433373" 22="-0.901214" 30="-205.576599" 31="28.68124" 32="177.792099"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="198" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.903663" 02="0.428243" 20="-0.428243" 22="-0.903663" 30="-193.485107" 31="28.73387" 32="171.923706"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="78" tile="data/tiles/arid_island_9_11.xml" name="ARID_ISLAND_9_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="199" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.570311" 02="0.821429" 20="-0.821429" 22="-0.570311" 30="112.728302" 31="39.340618" 32="-414.828888"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="200" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.564055" 02="0.825737" 20="-0.825737" 22="-0.564055" 30="124.682198" 31="39.340519" 32="-433.275085"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="201" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.735191" 02="0.67786" 20="-0.67786" 22="-0.735191" 30="156.901993" 31="39.340611" 32="-384.415985"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="202" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.409302" 02="0.912399" 20="-0.912399" 22="-0.409302" 30="169.561996" 31="39.340549" 32="-401.689087"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="203" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.739493" 02="0.673164" 20="-0.673164" 22="-0.739493" 30="193.160706" 31="39.340599" 32="-345.484192"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="204" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.39285" 02="0.919603" 20="-0.919603" 22="-0.39285" 30="216.795502" 31="39.340591" 32="-381.792603"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="205" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.727059" 02="0.686575" 20="-0.686575" 22="-0.727059" 30="227.962494" 31="39.34058" 32="-307.828705"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="206" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.388567" 02="0.92142" 20="-0.92142" 22="-0.388567" 30="264.797699" 31="39.340641" 32="-361.756104"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="207" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.735229" 02="0.677819" 20="-0.677819" 22="-0.735229" 30="262.131989" 31="39.340691" 32="-271.163605"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="208" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.378428" 02="0.925631" 20="-0.925631" 22="-0.378428" 30="313.071289" 31="39.34082" 32="-341.196503"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="209" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.378486" 02="-0.925607" 20="0.925607" 22="0.378486" 30="442.16629" 31="39.340691" 32="-144.786194"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="210" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.711758" 02="-0.702425" 20="0.702425" 22="0.711758" 30="492.631287" 31="39.340801" 32="-215.317505"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="211" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.396828" 02="-0.917893" 20="0.917893" 22="0.396828" 30="491.552094" 31="39.340569" 32="-123.726997"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="79" tile="data/tiles/arid_island_10_6.xml" name="ARID_ISLAND_10_6" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="212" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.676241" 02="-0.736681" 20="0.736681" 22="-0.676241" 30="-372.01059" 31="29.57089" 32="-169.874298"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="213" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.671069" 02="0.741395" 20="-0.741395" 22="0.671069" 30="-355.79541" 31="29.57089" 32="-184.737198"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="214" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.684957" 02="0.728583" 20="-0.728583" 22="0.684957" 30="-433.879486" 31="29.57089" 32="-116.135201"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="215" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.666982" 02="-0.745074" 20="0.745074" 22="-0.666982" 30="-294.741486" 31="29.5709" 32="-244.806793"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="216" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.675044" 02="-0.737777" 20="0.737777" 22="-0.675044" 30="-397.431793" 31="29.53772" 32="-356.909302"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="217" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.8234" 02="-0.567461" 20="0.567461" 22="-0.8234" 30="-435.180298" 31="29.53772" 32="-322.879089"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="218" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.81652" 02="-0.577317" 20="0.577317" 22="-0.81652" 30="-469.004211" 31="29.53772" 32="-274.8974"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="219" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.824886" 02="-0.565299" 20="0.565299" 22="-0.824886" 30="-496.349304" 31="29.53772" 32="-235.884705"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="80" tile="data/tiles/arid_island_10_11.xml" name="ARID_ISLAND_10_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="220" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.302863" 02="-0.953034" 20="0.953034" 22="-0.302863" 30="146.585495" 31="28.428671" 32="32.458611"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="221" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.306972" 02="-0.951719" 20="0.951719" 22="-0.306972" 30="150.503296" 31="28.12899" 32="43.977261"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="222" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.578027" 02="-0.816018" 20="0.816018" 22="0.578027" 30="-358.105499" 31="39.114201" 32="-71.260208"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="223" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.563886" 02="-0.825853" 20="0.825853" 22="0.563886" 30="-370.479187" 31="39.234211" 32="-53.032391"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="224" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.740979" 02="-0.671528" 20="0.671528" 22="0.740979" 30="-402.129791" 31="39.34053" 32="-101.709999"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="225" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.380975" 02="-0.924585" 20="0.924585" 22="0.380975" 30="-414.719208" 31="39.340599" 32="-84.285011"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="226" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.741742" 02="-0.670685" 20="0.670685" 22="0.741742" 30="-437.514313" 31="39.34058" 32="-139.762695"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="227" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.37172" 02="-0.928345" 20="0.928345" 22="0.37172" 30="-461.35199" 31="39.34058" 32="-103.999603"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="228" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.731681" 02="-0.681647" 20="0.681647" 22="0.731681" 30="-473.603394" 31="39.34063" 32="-178.688705"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="81" tile="data/tiles/arid_island_11_6.xml" name="ARID_ISLAND_11_6" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="229" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.793747" 02="0.608248" 20="-0.608248" 22="-0.793747" 30="224.818604" 31="50.02293" 32="-130.735001"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="230" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.80121" 02="-0.598384" 20="0.598384" 22="0.80121" 30="278.902588" 31="50.050171" 32="-76.779343"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="231" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,railroad_signal_type=left&amp;amp;amp;right" vehicle_file_store="1">
+						<spawn_transform 00="-0.815559" 02="0.578674" 20="-0.578674" 22="-0.815559" 30="304.31311" 31="49.760429" 32="-20.783911"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="232" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,railroad_signal_type=left&amp;amp;amp;right" vehicle_file_store="1">
+						<spawn_transform 00="-0.815319" 02="0.579012" 20="-0.579012" 22="-0.815319" 30="314.316589" 31="49.760429" 32="-27.692089"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="82" tile="data/tiles/arid_island_11_14.xml" name="ARID_ISLAND_11_14" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="233" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.501363" 02="0.865237" 20="-0.865237" 22="0.501363" 30="-476.628387" 31="29.62327" 32="91.004433"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="234" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999627" 02="-0.027306" 20="0.027306" 22="-0.999627" 30="-356.614014" 31="29.623289" 32="-151.6978"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="235" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.000126" 02="-1" 20="1" 22="0.000126" 30="-204.251404" 31="29.623301" 32="-9.198132"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="236" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.034509" 02="-0.999404" 20="0.999404" 22="0.034509" 30="123.3265" 31="29.623289" 32="2.613246"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="237" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.039279" 02="-0.999228" 20="0.999228" 22="0.039279" 30="275.040192" 31="29.62332" 32="8.399544"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="238" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.05205" 02="-0.998644" 20="0.998644" 22="0.05205" 30="326.789795" 31="29.62332" 32="10.46682"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="239" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.025754" 02="-0.999668" 20="0.999668" 22="0.025754" 30="335.426605" 31="29.623329" 32="-201.115494"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="240" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,railroad_signal_type=front" vehicle_file_store="1">
+						<spawn_transform 00="0.477894" 02="-0.878418" 20="0.878418" 22="0.477894" 30="168.477493" 31="29.624241" 32="-25.15312"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="83" tile="data/tiles/arid_island_12_6.xml" name="ARID_ISLAND_12_6" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="241" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.45641" 02="-0.88977" 20="0.88977" 22="-0.45641" 30="224.980698" 31="41.395699" 32="104.207199"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="242" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.449453" 02="0.893304" 20="-0.893304" 22="0.449453" 30="164.446594" 31="44.134571" 32="147.300003"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="243" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,railroad_signal_type=left&amp;amp;amp;right" vehicle_file_store="1">
+						<spawn_transform 00="-0.150733" 02="-0.988575" 20="0.988575" 22="-0.150733" 30="-106.027603" 31="49.55135" 32="206.0383"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="244" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,railroad_signal_type=left&amp;amp;amp;right" vehicle_file_store="1">
+						<spawn_transform 00="-0.156109" 02="-0.98774" 20="0.98774" 22="-0.156109" 30="-103.966599" 31="49.760559" 32="217.879105"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="84" tile="data/tiles/arid_island_12_7.xml" name="ARID_ISLAND_12_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="245" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.996834" 02="0.079508" 20="-0.079508" 22="0.996834" 30="-443.749695" 31="48.980419" 32="-136.105896"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="246" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.997942" 02="-0.064121" 20="0.064121" 22="-0.997942" 30="-450.710602" 31="49.243622" 32="-212.329803"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="247" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.999449" 02="-0.033181" 20="0.033181" 22="0.999449" 30="-439.289612" 31="49.58485" 32="-328.633911"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="248" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.999375" 02="-0.03534" 20="0.03534" 22="0.999375" 30="-451.428192" 31="49.276081" 32="-328.4263"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="85" tile="data/tiles/arid_island_12_9.xml" name="ARID_ISLAND_12_9" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="249" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.996527" 02="-0.083267" 20="0.083267" 22="-0.996527" 30="-109.250397" 31="48.72715" 32="38.05143"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="250" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.994943" 02="0.10044" 20="-0.10044" 22="0.994943" 30="-103.554703" 31="48.663971" 32="110.441498"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="251" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.97271" 02="-0.232023" 20="0.232023" 22="-0.97271" 30="-167.1642" 31="47.45829" 32="365.741486"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="252" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.97392" 02="-0.226893" 20="0.226893" 22="-0.97392" 30="-155.2603" 31="47.027031" 32="368.647705"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="86" tile="data/tiles/arid_island_12_10.xml" name="ARID_ISLAND_12_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="253" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999474" 02="0.032446" 20="-0.032446" 22="-0.999474" 30="-185.664307" 31="48.137531" 32="-27.9002"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="254" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.999138" 02="-0.041503" 20="0.041503" 22="0.999138" 30="-170.510696" 31="48.14677" 32="57.839352"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="255" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.9983" 02="0.058286" 20="-0.058286" 22="-0.9983" 30="-179.024902" 31="47.288631" 32="132.674301"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="256" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.997746" 02="0.067102" 20="-0.067102" 22="-0.997746" 30="-166.741302" 31="47.41877" 32="132.019608"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="87" tile="data/tiles/arid_island_14_5.xml" name="ARID_ISLAND_14_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="257" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.128088" 02="0.991763" 20="-0.991763" 22="0.128088" 30="408.621704" 31="29.68358" 32="-149.356796"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="258" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.132811" 02="-0.991141" 20="0.991141" 22="-0.132811" 30="477.7258" 31="30.03834" 32="-169.957703"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="88" tile="data/tiles/arid_island_15_5.xml" name="ARID_ISLAND_15_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="259" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.088934" 02="0.996038" 20="-0.996038" 22="0.088934" 30="-486.4245" 31="30.02169" 32="-174.079102"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="260" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.300471" 02="0.953791" 20="-0.953791" 22="0.300471" 30="-439.811493" 31="30.02169" 32="-186.767303"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="261" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.473067" 02="0.881027" 20="-0.881027" 22="0.473067" 30="-394.222595" 31="30.02169" 32="-208.529694"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="262" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.018729" 02="-0.999825" 20="0.999825" 22="0.018729" 30="-160.701797" 31="29.960939" 32="-190.799606"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="263" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.084114" 02="0.996456" 20="-0.996456" 22="-0.084114" 30="-28.65859" 31="29.73844" 32="-170.814804"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="264" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.089595" 02="0.995978" 20="-0.995978" 22="-0.089595" 30="-27.50363" 31="29.534309" 32="-184.238205"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="89" tile="data/tiles/arid_island_15_13.xml" name="ARID_ISLAND_15_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="265" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.000819" 02="1" 20="-1" 22="0.000819" 30="-301.512787" 31="19.001619" 32="74.511963"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="266" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.022569" 02="0.999745" 20="-0.999745" 22="-0.022569" 30="-64.877823" 31="19.08099" 32="79.750183"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="267" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.033578" 02="-0.999436" 20="0.999436" 22="0.033578" 30="1.650397" 31="18.936701" 32="69.482803"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="268" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.004456" 02="0.99999" 20="-0.99999" 22="-0.004456" 30="121.762398" 31="18.955441" 32="148.891296"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="269" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.021651" 02="0.999766" 20="-0.999766" 22="-0.021651" 30="218.215302" 31="18.89769" 32="162.587494"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="270" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.021645" 02="0.999766" 20="-0.999766" 22="-0.021645" 30="218.241501" 31="19.027491" 32="145.394501"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="90" tile="data/tiles/arid_island_16_12.xml" name="ARID_ISLAND_16_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="271" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.998854" 02="-0.047867" 20="0.047867" 22="-0.998854" 30="133.455704" 31="19.139219" 32="-374.67691"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="272" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.998879" 02="-0.047342" 20="0.047342" 22="-0.998879" 30="147.067001" 31="19.19824" 32="-373.992096"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="273" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.99952" 02="-0.030979" 20="0.030979" 22="-0.99952" 30="151.402298" 31="19.171261" 32="-498.029297"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="91" tile="data/tiles/arid_island_16_13.xml" name="ARID_ISLAND_16_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="274" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.683349" 02="0.730092" 20="-0.730092" 22="0.683349" 30="-263.98999" 31="18.936689" 32="-132.661697"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="275" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.688804" 02="0.724947" 20="-0.724947" 22="0.688804" 30="-273.335602" 31="18.88452" 32="-142.257294"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="92" tile="data/tiles/arid_island_17_5.xml" name="ARID_ISLAND_17_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="276" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.128463" 02="-0.991714" 20="0.991714" 22="-0.128463" 30="246.089905" 31="29.588511" 32="90.683456"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="277" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.110061" 02="-0.993925" 20="0.993925" 22="-0.110061" 30="247.993103" 31="29.89258" 32="103.351402"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="93" tile="data/tiles/arid_island_17_7.xml" name="ARID_ISLAND_17_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="278" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.817581" 02="-0.575814" 20="0.575814" 22="0.817581" 30="-345.158508" 31="19.070749" 32="-277.210693"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="279" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.81961" 02="-0.572923" 20="0.572923" 22="0.81961" 30="-354.971313" 31="19.08007" 32="-270.1427"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="94" tile="data/tiles/arid_island_17_9.xml" name="ARID_ISLAND_17_9" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="280" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.913014" 02="-0.407929" 20="0.407929" 22="-0.913014" 30="71.752182" 31="19.0459" 32="128.142105"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="281" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.915789" 02="-0.40166" 20="0.40166" 22="-0.915789" 30="83.412071" 31="19.198111" 32="133.488098"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="95" tile="data/tiles/arid_island_17_10.xml" name="ARID_ISLAND_17_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="282" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.637815" 02="0.770189" 20="-0.770189" 22="0.637815" 30="-392.553802" 31="18.996189" 32="-178.310699"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="283" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.635172" 02="0.77237" 20="-0.77237" 22="0.635172" 30="-401.270386" 31="18.999889" 32="-188.474503"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="284" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.270823" 02="-0.962629" 20="0.962629" 22="0.270823" 30="379.777405" 31="19.069679" 32="-312.201111"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="285" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.263009" 02="-0.964793" 20="0.964793" 22="0.263009" 30="376.140106" 31="19.00551" 32="-299.362"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="96" tile="data/tiles/arid_island_17_12.xml" name="ARID_ISLAND_17_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="286" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.196161" 02="-0.980572" 20="0.980572" 22="0.196161" 30="-168.739594" 31="19.129049" 32="372.258514"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="287" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.202383" 02="-0.979306" 20="0.979306" 22="0.202383" 30="-171.288101" 31="19.128981" 32="385.087189"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="288" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.184248" 02="-0.98288" 20="0.98288" 22="0.184248" 30="-78.152344" 31="19.22648" 32="403.740204"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="97" tile="data/tiles/arid_island_18_5.xml" name="ARID_ISLAND_18_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="289" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.004801" 02="0.999988" 20="-0.999988" 22="-0.004801" 30="468.649597" 31="2.515055" 32="-95.729469"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="290" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.016332" 02="-0.999867" 20="0.999867" 22="0.016332" 30="533.668823" 31="2.515055" 32="-108.108498"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="98" tile="data/tiles/arid_island_18_12.xml" name="ARID_ISLAND_18_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="291" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.673295" 02="0.739374" 20="-0.739374" 22="0.673295" 30="449.645691" 31="19.12236" 32="221.766693"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="292" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.668132" 02="0.744043" 20="-0.744043" 22="0.668132" 30="441.492615" 31="19.12237" 32="212.793793"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="293" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.61434" 02="0.789041" 20="-0.789041" 22="0.61434" 30="386.671906" 31="19.135941" 32="261.00589"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="99" tile="data/tiles/arid_island_19_5.xml" name="ARID_ISLAND_19_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="294" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.009211" 02="0.999958" 20="-0.999958" 22="-0.009211" 30="-76.255409" 31="2.515063" 32="-95.72834"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="295" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.001197" 02="0.999999" 20="-0.999999" 22="-0.001197" 30="-23.48605" 31="2.515066" 32="-103.601501"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="100" tile="data/tiles/arid_island_19_11.xml" name="ARID_ISLAND_19_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="296" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.566582" 02="0.824005" 20="-0.824005" 22="-0.566582" 30="403.074188" 31="18.925619" 32="-460.804291"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="297" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.578206" 02="0.815891" 20="-0.815891" 22="-0.578206" 30="410.770203" 31="19.07107" 32="-472.10141"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="298" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.728725" 02="0.684806" 20="-0.684806" 22="0.728725" 30="485.665985" 31="19.106119" 32="168.877899"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="101" tile="data/tiles/arid_island_19_12.xml" name="ARID_ISLAND_19_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="299" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.707673" 02="-0.70654" 20="0.70654" 22="-0.707673" 30="-26.24567" 31="19.119221" 32="-319.478302"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="300" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.713502" 02="-0.700653" 20="0.700653" 22="-0.713502" 30="-17.59622" 31="19.119221" 32="-310.943207"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="301" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.713154" 02="-0.701007" 20="0.701007" 22="-0.713154" 30="17.396481" 31="19.11801" 32="-346.852509"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="302" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.713942" 02="0.700205" 20="-0.700205" 22="0.713942" 30="-95.865227" 31="19.11249" 32="-248.855499"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="303" cargo_zone_import_cargo_type="id_364,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.919197" 02="0.393799" 20="-0.393799" 22="0.919197" 30="-94.523438" 31="19.14571" 32="-223.432602"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="304" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.709799" 02="-0.704405" 20="0.704405" 22="-0.709799" 30="-479.771515" 31="19.103939" 32="150.330093"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="305" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.421584" 02="-0.906789" 20="0.906789" 22="-0.421584" 30="-467.406311" 31="19.10586" 32="158.578094"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="102" tile="data/tiles/arid_island_20_5.xml" name="ARID_ISLAND_20_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="306" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.00146" 02="-0.999999" 20="0.999999" 22="-0.00146" 30="-384.322205" 31="2.514091" 32="-112.216499"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="307" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.007667" 02="0.999971" 20="-0.999971" 22="-0.007667" 30="-453.553589" 31="2.515055" 32="-100.267502"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="103" tile="data/tiles/arid_island_20_11.xml" name="ARID_ISLAND_20_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="308" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.711463" 02="0.702724" 20="-0.702724" 22="0.711463" 30="-503.979095" 31="19.12178" 32="178.8349"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="309" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.715561" 02="0.69855" 20="-0.69855" 22="0.715561" 30="-516.873596" 31="19.122089" 32="166.493301"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="310" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.315725" 02="-0.948851" 20="0.948851" 22="-0.315725" 30="183.522705" 31="18.765949" 32="-325.155212"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="311" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.304348" 02="-0.952561" 20="0.952561" 22="-0.304348" 30="187.862701" 31="19.12318" 32="-312.334198"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="312" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.323004" 02="-0.946398" 20="0.946398" 22="-0.323004" 30="361.253906" 31="19.08646" 32="-376.355499"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="104" tile="data/tiles/arid_island_22_11.xml" name="ARID_ISLAND_22_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="313" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.722636" 02="0.691229" 20="-0.691229" 22="-0.722636" 30="-245.775604" 31="19.14444" 32="-204.777603"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="314" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.716375" 02="0.697716" 20="-0.697716" 22="-0.716375" 30="-236.373199" 31="19.145069" 32="-213.829193"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="315" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.855844" 02="-0.517235" 20="0.517235" 22="0.855844" 30="-86.705078" 31="19.084499" 32="-1.675781"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="316" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.556855" 02="0.83061" 20="-0.83061" 22="-0.556855" 30="-314.042999" 31="19.24028" 32="-287.424805"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="105" tile="data/tiles/arid_island_22_12.xml" name="ARID_ISLAND_22_12" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="317" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.999184" 02="-0.040388" 20="0.040388" 22="0.999184" 30="232.535904" 31="16.84581" 32="-18.477409"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="318" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.999556" 02="-0.02981" 20="0.02981" 22="0.999556" 30="220.431702" 31="16.838169" 32="-18.17993"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="106" tile="data/tiles/arid_island_22_13.xml" name="ARID_ISLAND_22_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="319" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.988287" 02="-0.152608" 20="0.152608" 22="-0.988287" 30="187.321503" 31="15.85592" 32="-444.819"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="320" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.987399" 02="-0.158253" 20="0.158253" 22="-0.987399" 30="199.195999" 31="15.90138" 32="-442.944794"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="321" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.977605" 02="0.210448" 20="-0.210448" 22="0.977605" 30="145.513702" 31="15.91412" 32="-214.709"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="107" tile="data/tiles/arid_island_22_14.xml" name="ARID_ISLAND_22_14" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="322" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.989169" 02="-0.146785" 20="0.146785" 22="0.989169" 30="40.611488" 31="15.86604" 32="-78.148933"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="323" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.990959" 02="-0.134164" 20="0.134164" 22="0.990959" 30="28.78896" 31="15.83642" 32="-76.407677"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="324" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.998737" 02="0.050252" 20="-0.050252" 22="0.998737" 30="51.238281" 31="15.94839" 32="93.040039"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="108" tile="data/tiles/arid_island_23_11.xml" name="ARID_ISLAND_23_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="325" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.03463" 02="-0.9994" 20="0.9994" 22="0.03463" 30="-219.028702" 31="19.14642" 32="342.339813"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="326" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.033091" 02="-0.999452" 20="0.999452" 22="0.033091" 30="-219.435501" 31="19.290951" 32="356.910187"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="327" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_1" vehicle_file_store="1">
+						<spawn_transform 00="0.011812" 02="-0.99993" 20="0.99993" 22="0.011812" 30="-219.416" 31="19.20344" 32="354.553711"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="328" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_2" vehicle_file_store="1">
+						<spawn_transform 00="0.217264" 02="0.976113" 20="-0.976113" 22="0.217264" 30="163.935501" 31="19.2279" 32="313.002014"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="109" tile="data/tiles/arid_island_23_13.xml" name="ARID_ISLAND_23_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="329" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.141324" 02="-0.989963" 20="0.989963" 22="0.141324" 30="-236.199402" 31="15.94331" 32="308.283112"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="330" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.153124" 02="-0.988207" 20="0.988207" 22="0.153124" 30="-238.041" 31="15.9433" 32="320.21759"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="331" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_2" vehicle_file_store="1">
+						<spawn_transform 00="0.190962" 02="-0.981597" 20="0.981597" 22="0.190962" 30="27.978519" 31="15.99869" 32="366.508789"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="110" tile="data/tiles/arid_island_24_11.xml" name="ARID_ISLAND_24_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="332" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.520646" 02="0.853773" 20="-0.853773" 22="0.520646" 30="30.6134" 31="19.12224" 32="-54.913651"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="333" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.515924" 02="0.856635" 20="-0.856635" 22="0.515924" 30="353.490112" 31="19.12196" 32="-344.47879"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="334" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.51512" 02="0.857118" 20="-0.857118" 22="0.51512" 30="441.863098" 31="19.122431" 32="-384.176788"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="335" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.526291" 02="0.850304" 20="-0.850304" 22="0.526291" 30="433.247314" 31="19.12216" 32="-398.574585"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="336" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=keptin_junction" vehicle_file_store="1">
+						<spawn_transform 00="0.857663" 02="0.514212" 20="-0.514212" 22="0.857663" 30="108.3535" 31="19.114519" 32="-127.244102"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="111" tile="data/tiles/arid_island_26_11.xml" name="ARID_ISLAND_26_11" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="337" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.199229" 02="0.979953" 20="-0.979953" 22="-0.199229" 30="-118.861298" 31="19.0208" 32="-444.726807"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="338" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.218075" 02="0.975932" 20="-0.975932" 22="-0.218075" 30="-116.4403" 31="18.912531" 32="-457.304901"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="339" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.911109" 02="-0.412165" 20="0.412165" 22="0.911109" 30="483.109711" 31="19.1359" 32="63.83913"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="340" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.90735" 02="-0.420376" 20="0.420376" 22="0.90735" 30="471.280609" 31="18.902069" 32="69.628929"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="112" tile="data/tiles/arid_island_26_13.xml" name="ARID_ISLAND_26_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="341" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.964023" 02="-0.265817" 20="0.265817" 22="-0.964023" 30="476.857391" 31="8.685578" 32="360.185486"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="342" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.964865" 02="0.262748" 20="-0.262748" 22="0.964865" 30="443.765503" 31="8.629464" 32="427.399109"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="343" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig" vehicle_file_store="1">
+						<spawn_transform 00="-0.954968" 02="-0.296709" 20="0.296709" 22="-0.954968" 30="474.117188" 31="8.652467" 32="359.247986"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="113" tile="data/tiles/arid_island_26_14.xml" name="ARID_ISLAND_26_14" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="344" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.265825" 02="0.964021" 20="-0.964021" 22="-0.265825" 30="322.311005" 31="8.629491" 32="-409.706299"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="345" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right,junction_initial_state=left" vehicle_file_store="1">
+						<spawn_transform 00="0.966454" 02="0.25684" 20="-0.25684" 22="0.966454" 30="366.3526" 31="8.629579" 32="-292.194214"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="346" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.966138" 02="-0.258024" 20="0.258024" 22="-0.966138" 30="80.114464" 31="8.634715" 32="-317.54599"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="347" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.99898" 02="-0.045151" 20="0.045151" 22="-0.99898" 30="66.083504" 31="8.634715" 32="-266.167786"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="348" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.998832" 02="-0.048313" 20="0.048313" 22="-0.998832" 30="63.62355" 31="8.634715" 32="-216.717407"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="349" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.999134" 02="-0.041617" 20="0.041617" 22="-0.999134" 30="61.029812" 31="8.634715" 32="-165.978195"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="350" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.9991" 02="-0.042421" 20="0.042421" 22="-0.9991" 30="58.20174" 31="8.634715" 32="-108.349297"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="351" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.958535" 02="-0.284975" 20="0.284975" 22="-0.958535" 30="421.323486" 31="8.621123" 32="-492.728088"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="352" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig" vehicle_file_store="1">
+						<spawn_transform 00="0.96731" 02="0.253597" 20="-0.253597" 22="0.96731" 30="368.967987" 31="8.605283" 32="-291.417114"/>
+						<spawn_bounds>
+							<min x="-1.044476" y="-0.141806" z="-0.975564"/>
+							<max x="1.044476" y="0.141806" z="0.975564"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="353" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig" vehicle_file_store="1">
+						<spawn_transform 00="0.964752" 02="0.263162" 20="-0.263162" 22="0.964752" 30="379.335693" 31="8.587939" 32="-288.487"/>
+						<spawn_bounds>
+							<min x="-0.899395" y="-0.164068" z="-1.014539"/>
+							<max x="0.899395" y="0.164068" z="1.014539"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="354" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig,bind_label=NONE,demo" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="347.334015" 31="8.620001" 32="-292.99411"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="355" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Esig_Vsig,bind_label=NONE,demo" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="327.021515" 31="8.62" 32="-298.445313"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="356" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Vsig,bind_label=NONE,demo" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="356.035187" 31="8.619998" 32="-290.670898"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="357" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=NONE,demo" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="344.435486" 31="8.62" 32="-293.769501"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="358" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Asig,bind_label=NONE,demo" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.25882" 20="-0.25882" 22="0.965926" 30="338.627014" 31="8.619998" 32="-295.338898"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="379" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Asig_Vsig,bind_label=NONE,demo" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.25882" 20="-0.25882" 22="0.965926" 30="335.724609" 31="8.612885" 32="-296.11911"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="380" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Esig,bind_label=NONE,demo" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.25882" 20="-0.25882" 22="0.965926" 30="329.933594" 31="8.620002" 32="-297.68161"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="381" display_name="measuring_box" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.25882" 20="-0.25882" 22="0.965926" 30="318.334015" 31="11.6294" 32="-300.782196"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-1.5" z="-1.5"/>
+							<max x="1.5" y="1.5" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="382" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Vsig_v2,bind_label=NONE,demo" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="0.965926" 02="0.25882" 20="-0.25882" 22="0.965926" 30="353.13089" 31="8.619998" 32="-291.444305"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="382" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,magnet">
+						<spawn_transform 00="0.965926" 02="0.25882" 20="-0.25882" 22="0.965926" 30="321.238312" 31="8.620002" 32="-300.013702"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="383" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left,bind_label=NONE,demo">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="315.427704" 31="8.62" 32="-301.564514"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="384" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric,bind_label=NONE,demo">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="312.527313" 31="8.62" 32="-302.341797"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="385" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right,bind_label=NONE,demo">
+						<spawn_transform 00="0.965926" 02="0.258819" 20="-0.258819" 22="0.965926" 30="309.622986" 31="8.62" 32="-303.116211"/>
+						<spawn_bounds>
+							<min x="-1.5" y="-0.1" z="-1.5"/>
+							<max x="1.5" y="0.1" z="1.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="114" tile="data/tiles/arid_island_27_10.xml" name="ARID_ISLAND_27_10" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="359" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.25931" 02="-0.965794" 20="0.965794" 22="-0.25931" 30="-288.664886" 31="18.99493" 32="469.641998"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="360" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.269747" 02="-0.962931" 20="0.962931" 22="-0.269747" 30="-285.538208" 31="18.975731" 32="479.961487"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="115" tile="data/tiles/arid_island_27_13.xml" name="ARID_ISLAND_27_13" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="361" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999959" 02="-0.00902" 20="0.00902" 22="-0.999959" 30="3.38438" 31="15.46505" 32="-452.864197"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="362" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.999959" 02="-0.009056" 20="0.009056" 22="-0.999959" 30="15.46118" 31="15.50511" 32="-452.888794"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="363" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig" vehicle_file_store="1">
+						<spawn_transform 00="0.998618" 02="0.052549" 20="-0.052549" 22="0.998618" 30="4.773438" 31="15.61128" 32="-203.924805"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="364" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_1" vehicle_file_store="1">
+						<spawn_transform 00="0.988069" 02="0.154013" 20="-0.154013" 22="0.988069" 30="-10.58008" 31="15.51957" 32="-205.317398"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="116" tile="data/tiles/arid_island_25_12.xml" name="ARID_ISLAND_25_12" is_env_mod="true">
+				<components/>
+			</l>
+			<l id="117" tile="data/tiles/arid_island_27_11.xml" name="ARID_ISLAND_27_11" is_env_mod="true">
+				<components>
+					<c component_type="10" id="365" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_1" vehicle_file_store="1">
+						<spawn_transform 00="0.824462" 02="-0.565917" 20="0.565917" 22="0.824462" 30="-441.167999" 31="19.11479" 32="224.490204"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="118" tile="data/tiles/arid_island_26_10.xml" name="ARID_ISLAND_22_10" is_env_mod="true">
+				<components>
+					<c component_type="10" id="366" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_2" vehicle_file_store="1">
+						<spawn_transform 00="-0.147141" 02="0.989115" 20="-0.989115" 22="-0.147141" 30="-341.093811" 31="19.0963" 32="498.052704"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="119" tile="data/tiles/arid_island_27_12.xml" name="ARID_ISLAND_27_12" is_env_mod="true">
+				<components>
+					<c component_type="10" id="367" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_2" vehicle_file_store="1">
+						<spawn_transform 00="-0.99956" 02="0.029677" 20="-0.029677" 22="-0.99956" 30="12.36523" 31="15.53125" 32="397.026398"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="120" tile="data/tiles/arid_island_25_11.xml" name="ARID_ISLAND_25_11" is_env_mod="true">
+				<components>
+					<c component_type="10" id="368" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_1" vehicle_file_store="1">
+						<spawn_transform 00="-0.438748" 02="-0.89861" 20="0.89861" 22="-0.438748" 30="-397.671906" 31="19.057119" 32="-384.008789"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="369" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_2" vehicle_file_store="1">
+						<spawn_transform 00="0.43709" 02="0.899418" 20="-0.899418" 22="0.43709" 30="-403.25" 31="19.174021" 32="-395.171906"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="121" tile="data/tiles/arid_island_25_13.xml" name="ARID_ISLAND_25_13" is_env_mod="true">
+				<components>
+					<c component_type="10" id="370" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_1" vehicle_file_store="1">
+						<spawn_transform 00="0.387837" 02="0.921728" 20="-0.921728" 22="0.387837" 30="-0.783203" 31="15.93749" 32="251.309601"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="371" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig,bind_label=arid2_2" vehicle_file_store="1">
+						<spawn_transform 00="-0.360469" 02="-0.932771" 20="0.932771" 22="-0.360469" 30="4.246094" 31="15.91384" 32="263.385712"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.1" z="-1"/>
+							<max x="1" y="0.1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="122" tile="data\tiles\arid_island_19_10.xml" name="ARID_ISLAND_??_?? 1" is_env_mod="true">
+				<components>
+					<c component_type="10" id="372" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="-0.530328" 02="0.847793" 20="-0.847793" 22="-0.530328" 30="308.464813" 31="19.093849" 32="461.546906"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="123" tile="data\tiles\arid_island_18_10.xml" name="ARID_ISLAND_??_?? 2" is_env_mod="true">
+				<components>
+					<c component_type="10" id="373" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.25362" 02="-0.967304" 20="0.967304" 22="0.25362" 30="-472.935486" 31="19.1115" 32="-259.463898"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="124" tile="data\tiles\arid_island_16_10.xml" name="ARID_ISLAND_??_?? 3" is_env_mod="true">
+				<components>
+					<c component_type="10" id="374" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,signal=Bksig_Vsig">
+						<spawn_transform 00="0.843672" 02="0.53686" 20="-0.53686" 22="0.843672" 30="443.872986" 31="19.116119" 32="-6.138672"/>
+						<spawn_bounds>
+							<min x="-1" y="-0.05" z="-1"/>
+							<max x="1" y="0.05" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

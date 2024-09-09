@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="true" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/5_4_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_44_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_5_4_ExtrudedTrackMesh_Curve_44_0.mesh">
+			<transform 30="-384.380859" 31="20" 32="415.1621"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_44_1" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_5_4_ExtrudedTrackMesh_Curve_44_1.mesh">
+			<transform 30="-384.380859" 31="20" 32="415.1621"/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/tile_specific_structures/AB_5_4.mesh">
+			<transform/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/5_4_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_44_0_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_5_4_ExtrudedTrackMesh_Curve_44_0.phys">
+			<transform 30="-384.380859" 31="20" 32="415.1621"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_44_1_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_5_4_ExtrudedTrackMesh_Curve_44_1.phys">
+			<transform 30="-384.380859" 31="20" 32="415.1621"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/tile_specific_structures/AB_5_4.phys">
+			<transform/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks>
+		<track id="Curve#44_Track#0_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="-384.381348" 31="20.04" 32="415.1621"/>
+			<links>
+				<link id="Curve#44_Track#0_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#44_Track#0_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="-259.323242" 31="20.04" 32="520.0991"/>
+			<links>
+				<link id="Curve#44_Track#0_S#0_#1"/>
+				<link id="Curve#45_Track#0_S#0_#1_TileBorderCrossing"/>
+			</links>
+		</track>
+		<track id="Curve#45_Track#0_S#0_#1_TileBorderCrossing" _CT_loadIgnore="true">
+			<transform 30="-256.26416" 31="20.04" 32="522.6763"/>
+			<links>
+				<link id="Curve#44_Track#0_S#1_#1"/>
+			</links>
+		</track>
+	</train_tracks>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

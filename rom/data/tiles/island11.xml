@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="true" tile_type="4" sea_floor_height="-8">
+	<meshes>
+		<mesh id="island_mesh" file_name="nso_mod/meshes/tiles/coastguard_island.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="island_dock" file_name="nso_mod/meshes/tile_specific_structures/coastguard_dock.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="coastguard" file_name="nso_mod/meshes/tile_specific_structures/coastguard_outpost.mesh">
+			<transform/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="island_11_phys" file_name="nso_mod/meshes/tiles/coastguard_island.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="island_dock_phys" file_name="nso_mod/meshes/tile_specific_structures/coastguard_dock.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="coastguard_phys" file_name="nso_mod/meshes/tile_specific_structures/coastguard_outpost.phys">
+			<transform/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas>
+		<edit_area id="base_housing" is_static="true">
+			<transform 00="0.766044" 02="-0.642788" 20="0.642788" 22="0.766044" 30="104.29443" 31="8.530678" 32="57.779297"/>
+			<size x="40.59856" y="16" z="41.318043"/>
+		</edit_area>
+		<edit_area id="base_dock_wes" is_static="true">
+			<transform 00="-0.642729" 02="-0.766094" 20="0.766094" 22="-0.642729" 30="160.98975" 31="5.157891" 32="64.73535"/>
+			<size x="43.369598" y="16" z="77.607758"/>
+		</edit_area>
+		<edit_area id="base_dock_east" is_static="true">
+			<transform 00="-0.642729" 02="-0.766094" 20="0.766094" 22="-0.642729" 30="102.100586" 31="5.157891" 32="114.14453"/>
+			<size x="43.369598" y="16" z="77.607758"/>
+		</edit_area>
+		<edit_area id="dock_vehicle">
+			<transform 00="-0.642788" 02="-0.766044" 20="0.766044" 22="-0.642788" 30="180.0791" 31="1.562115" 32="47.67383"/>
+			<size x="15.057403" y="7.852942" z="25.598015"/>
+		</edit_area>
+	</edit_areas>
+	<interactables>
+		<interactable id="housing_interact" target_object_id="base_housing" label="Edit Coastguard Base" interact_type="2">
+			<transform 00="0.99494" 02="0.100469" 20="-0.100469" 22="0.99494" 30="127.13721" 31="1.55324" 32="62.378906"/>
+			<size x="0.911172" y="0.844964" z="0.692364"/>
+		</interactable>
+		<interactable id="docke_static_interact" target_object_id="base_dock_wes" label="Edit Dock East" interact_type="2">
+			<transform 00="0.270856" 02="-0.96262" 20="0.96262" 22="0.270856" 30="128.8667" 31="1.652054" 32="62.566406"/>
+			<size x="0.485451" y="0.131165" z="0.490668"/>
+		</interactable>
+		<interactable id="dockw_static_interact" target_object_id="base_dock_east" label="Edit Dock West" interact_type="2">
+			<transform 00="0.999924" 02="-0.012294" 20="0.012294" 22="0.999924" 30="129.521" 31="1.670737" 32="62.612305"/>
+			<size x="0.448192" y="0.146918" z="0.453008"/>
+		</interactable>
+		<interactable id="dock_vehicle_interact" target_object_id="dock_vehicle" label="Edit Boat" interact_type="2">
+			<transform 00="0.739973" 02="-0.672636" 20="0.672636" 22="0.739973" 30="166.220215" 31="1.861464" 32="72.004143"/>
+			<size x="1.180149" y="0.620818" z="0.856169"/>
+		</interactable>
+	</interactables>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers>
+		<markers id="hospital" marker_type="13" icon="8">
+			<transform 30="-12.416933" 31="32.901024" 32="0.388189"/>
+		</markers>
+		<markers id="title" marker_type="13" string_data="Coastguard Outpost Beginner " icon="11">
+			<transform 30="8.416933" 31="32.901024" 32="11.388189"/>
+		</markers>
+		<markers id="spawn_marker" marker_type="5" icon="1">
+			<transform 00="-0.717887" 02="-0.69616" 20="0.69616" 22="-0.717887" 30="125" 31="1.8" 32="88"/>
+		</markers>
+	</tile_markers>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>

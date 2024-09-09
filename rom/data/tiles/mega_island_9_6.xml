@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/9_6N_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="mesh1" file_name="nso_mod/meshes/tiles/9_6S_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_409_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_9_6_ExtrudedTrackMesh_Curve_409_0.mesh">
+			<transform 30="440.664063" 31="12" 32="385.21875"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_409_1" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_9_6_ExtrudedTrackMesh_Curve_409_1.mesh">
+			<transform 30="440.664063" 31="12" 32="385.21875"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_409_2" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_9_6_ExtrudedTrackMesh_Curve_409_2.mesh">
+			<transform 30="440.664063" 31="12" 32="385.21875"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/9_6N_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="physics_mesh1" file_name="nso_mod/meshes/tiles/9_6S_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_409_0_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_9_6_ExtrudedTrackMesh_Curve_409_0.phys">
+			<transform 30="440.664063" 31="12" 32="385.21875"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_409_1_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_9_6_ExtrudedTrackMesh_Curve_409_1.phys">
+			<transform 30="440.664063" 31="12" 32="385.21875"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_409_2_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_9_6_ExtrudedTrackMesh_Curve_409_2.phys">
+			<transform 30="440.664063" 31="12" 32="385.21875"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks>
+		<track id="Curve#409_Track#0_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="377.4004" 31="11.2066889" 32="439.505859"/>
+			<links>
+				<link id="Curve#409_Track#0_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#409_Track#0_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="506.917969" 31="12.8733234" 32="334.623535"/>
+			<links>
+				<link id="Curve#409_Track#0_S#0_#1"/>
+			</links>
+		</track>
+		<track id="Curve#409_Track#1_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="374.410156" 31="11.2066889" 32="435.814453"/>
+			<links>
+				<link id="Curve#409_Track#1_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#409_Track#1_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="503.927734" 31="12.8733234" 32="330.932129"/>
+			<links>
+				<link id="Curve#409_Track#1_S#0_#1"/>
+			</links>
+		</track>
+	</train_tracks>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

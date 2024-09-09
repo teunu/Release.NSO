@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2" sea_floor_height="-12">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/9_9_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/wall_straight_short.mesh">
+			<transform 00="0.9957694" 02="0.09188791" 20="-0.09188791" 22="0.9957694" 30="110.699219" 31="3.4433403" 32="-482.123047"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/wall_broken.mesh">
+			<transform 30="117.692383" 31="2.7449882" 32="-482.556641"/>
+		</mesh>
+		<mesh id="StaticObject_10" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_gas_tank.mesh">
+			<transform 00="0.742763758" 01="-0.540915668" 02="0.3946031" 10="-1.49011541E-07" 11="0.5893526" 12="0.8078754" 20="-0.6695527" 21="-0.600060463" 22="0.437749535" 30="273.517578" 31="-20.93354" 32="-494.889648"/>
+		</mesh>
+		<mesh id="StaticObject_11" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/log_stump_03.mesh">
+			<transform 30="-494.789063" 31="4.36084032" 32="31.6523438"/>
+		</mesh>
+		<mesh id="StaticObject_12" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/log_stump_01.mesh">
+			<transform 30="-497.480469" 31="4.47668839" 32="33.7959"/>
+		</mesh>
+		<mesh id="StaticObject_13" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/log_stump_03.mesh">
+			<transform 00="0.122359931" 02="0.9924858" 20="-0.9924858" 22="0.122359931" 30="-497.5586" 31="4.620272" 32="30.21289"/>
+		</mesh>
+		<mesh id="StaticObject_14" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/log_stump_02.mesh">
+			<transform 30="-496.504883" 31="4.24634027" 32="32.1230469"/>
+		</mesh>
+		<mesh id="StaticObject_15" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/logs_stacked_long.mesh">
+			<transform 00="0.3251083" 02="-0.9456767" 20="0.9456767" 22="0.3251083" 30="-499.9248" 31="4.830219" 32="25.9501953"/>
+		</mesh>
+		<mesh id="StaticObject_16" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/log.mesh">
+			<transform 11="0.9440326" 12="-0.3298522" 21="0.3298522" 22="0.9440326" 30="-497.6211" 31="5.46684361" 32="24.6044922"/>
+		</mesh>
+		<mesh id="StaticObject_17" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/bush__StaticObject_17.mesh">
+			<transform 00="0.638054132" 02="-0.769991457" 20="0.769991457" 22="0.638054132" 30="-499.386719" 31="3.78174043" 32="30.5273438"/>
+		</mesh>
+		<mesh id="StaticObject_18" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/bush__StaticObject_18.mesh">
+			<transform 00="0.819428" 02="0.573182046" 20="-0.573182046" 22="0.819428" 30="-498.901367" 31="4.85698366" 32="24.15039"/>
+		</mesh>
+		<mesh id="StaticObject_19" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 11="0.975037038" 12="0.222042263" 21="-0.222042263" 22="0.975037038" 30="489" 31="-0.494394839" 32="429.478516"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rocks_slab_small_01.mesh">
+			<transform 00="0.782628" 02="0.6224896" 20="-0.6224896" 22="0.782628" 30="114.975586" 31="3.05938268" 32="-473.198242"/>
+		</mesh>
+		<mesh id="StaticObject_20" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="491.68457" 31="-0.427732766" 32="423.578125"/>
+		</mesh>
+		<mesh id="StaticObject_21" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 00="0.6736602" 02="0.73904115" 20="-0.73904115" 22="0.6736602" 30="455.4004" 31="-1.31181633" 32="463.9912"/>
+		</mesh>
+		<mesh id="StaticObject_22" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 30="-244.96875" 31="14.5985" 32="-136.084961"/>
+		</mesh>
+		<mesh id="StaticObject_23" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.mesh">
+			<transform 00="0.777108431" 02="0.629366755" 20="-0.629366755" 22="0.777108431" 30="-208.366211" 31="6.3384366" 32="-108.085938"/>
+		</mesh>
+		<mesh id="StaticObject_24" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_1.mesh">
+			<transform 30="-204.416016" 31="6.423561" 32="-109.99707"/>
+		</mesh>
+		<mesh id="StaticObject_25" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="-219.4502" 31="6.03365469" 32="-100.649414"/>
+		</mesh>
+		<mesh id="StaticObject_26" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="-241.0166" 31="4.75045252" 32="-85.31543"/>
+		</mesh>
+		<mesh id="StaticObject_27" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.mesh">
+			<transform 30="-496.425781" 31="5.306537" 32="-0.151367188"/>
+		</mesh>
+		<mesh id="StaticObject_28" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.mesh">
+			<transform 30="-496.9004" 31="4.920511" 32="6.998047"/>
+		</mesh>
+		<mesh id="StaticObject_29" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/hangar.mesh">
+			<transform 00="1.42105557E-14" 01="0.99997896" 02="1.97553049E-07" 10="0.99997896" 11="1.42105557E-14" 12="-1.97553049E-07" 20="-1.97557242E-07" 21="1.97557242E-07" 22="-1.00000012" 30="130" 31="2.7104" 32="-499.5996"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rocks_pillar_small_01.mesh">
+			<transform 00="0.98566246" 01="0.04957193" 02="-0.16129595" 10="-0.168741241" 11="0.289561" 12="-0.9421676" 20="-5.215406E-08" 21="0.955875" 22="0.29377377" 30="109.035156" 31="2.47253036" 32="-471.011719"/>
+		</mesh>
+		<mesh id="StaticObject_30" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_spool_structure.mesh">
+			<transform 00="0.0747808143" 02="-0.9971999" 20="0.9971999" 22="0.0747808143" 30="114.307617" 31="2.73022318" 32="-489.2129"/>
+		</mesh>
+		<mesh id="StaticObject_31" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/box_stack.mesh">
+			<transform 00="0.14944762" 02="0.98876965" 20="-0.98876965" 22="0.14944762" 30="146.319336" 31="2.90395355" 32="-488.069336"/>
+		</mesh>
+		<mesh id="StaticObject_32" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_beam__StaticObject_32.mesh">
+			<transform 00="0.809294164" 02="0.5874036" 20="-0.5874036" 22="0.809294164" 30="134.272461" 31="2.91598058" 32="-488.495117"/>
+		</mesh>
+		<mesh id="StaticObject_33" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/workbench_clean__StaticObject_33.mesh">
+			<transform 30="148.099609" 31="3" 32="-486.4004"/>
+		</mesh>
+		<mesh id="StaticObject_34" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_rolled__StaticObject_34.mesh">
+			<transform 00="0.784492731" 02="0.620138" 20="-0.620138" 22="0.784492731" 30="148.024414" 31="3.919773" 32="-485.694336"/>
+		</mesh>
+		<mesh id="StaticObject_35" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/clutter_covered.mesh">
+			<transform 30="130.680664" 31="2.845356" 32="-487.6045"/>
+		</mesh>
+		<mesh id="StaticObject_36" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_rolled__StaticObject_36.mesh">
+			<transform 30="148.125" 31="3.90590882" 32="-486.084961"/>
+		</mesh>
+		<mesh id="StaticObject_37" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/workbench_clean__StaticObject_37.mesh">
+			<transform 00="0.0220001917" 02="0.999757946" 20="-0.999757946" 22="0.0220001917" 30="140" 31="2.9632" 32="-490"/>
+		</mesh>
+		<mesh id="StaticObject_38" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_boat__StaticObject_38.mesh">
+			<transform 00="8.344649E-07" 02="1" 20="-1" 22="8.344649E-07" 30="139.4834" 31="3.86630559" 32="-489.9668"/>
+		</mesh>
+		<mesh id="StaticObject_39" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_gas_tanks.mesh">
+			<transform 30="138.741211" 31="2.86023521" 32="-490.598633"/>
+		</mesh>
+		<mesh id="StaticObject_4" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/rocks/rocks_slab_small_01__StaticObject_4.mesh">
+			<transform 00="0.253349245" 02="-0.967374861" 20="0.967374861" 22="0.253349245" 30="118.306641" 31="2.71977115" 32="-463.300781"/>
+		</mesh>
+		<mesh id="StaticObject_40" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_spool_structure__StaticObject_40.mesh">
+			<transform 00="0.9984501" 02="0.05565422" 20="-0.05565422" 22="0.9984501" 30="140.682617" 31="3.85167623" 32="-490.1582"/>
+		</mesh>
+		<mesh id="StaticObject_41" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_boat__StaticObject_41.mesh">
+			<transform 30="148.192383" 31="3.90984488" 32="-486.732422"/>
+		</mesh>
+		<mesh id="StaticObject_42" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_boat__StaticObject_42.mesh">
+			<transform 00="0.9177447" 01="-0.018872397" 02="0.396722227" 10="0.0188742764" 11="-0.995669544" 12="-0.09102701" 20="0.396722138" 21="0.0910274" 22="-0.91341424" 30="147.231445" 31="3.8933" 32="-485.8662"/>
+		</mesh>
+		<mesh id="StaticObject_43" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/workbench_clean__StaticObject_43.mesh">
+			<transform 00="5.96046448E-08" 02="-1" 20="1" 22="5.96046448E-08" 30="147.599609" 31="3" 32="-485.9004"/>
+		</mesh>
+		<mesh id="StaticObject_5" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/wall_corner.mesh">
+			<transform 00="0.923384666" 02="0.383876026" 20="-0.383876026" 22="0.923384666" 30="128.765625" 31="3.09585333" 32="-478.37207"/>
+		</mesh>
+		<mesh id="StaticObject_6" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_big_tank.mesh">
+			<transform 30="120.043945" 31="3.011742" 32="-471.879883"/>
+		</mesh>
+		<mesh id="StaticObject_7" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_big_tank.mesh">
+			<transform 00="-0.5570524" 02="0.8304771" 20="-0.8304771" 22="-0.5570524" 30="118.866211" 31="3.19871473" 32="-474.514648"/>
+		</mesh>
+		<mesh id="StaticObject_8" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_spool_structure.mesh">
+			<transform 00="0.1438812" 02="0.989595" 20="-0.989595" 22="0.1438812" 30="128.067383" 31="3.008039" 32="-475.2422"/>
+		</mesh>
+		<mesh id="StaticObject_9" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_beam.mesh">
+			<transform 00="0.474904537" 02="0.8800373" 20="-0.8800373" 22="0.474904537" 30="115.84668" 31="2.925026" 32="-478.069336"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/9_9_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/wall_straight_short__StaticObject_0_phys.phys">
+			<transform 00="0.9957694" 02="0.09188791" 20="-0.09188791" 22="0.9957694" 30="110.699219" 31="3.4433403" 32="-482.123047"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_10_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_gas_tank__StaticObject_10_phys.phys">
+			<transform 00="0.742763758" 01="-0.540915668" 02="0.3946031" 10="-1.49011541E-07" 11="0.5893526" 12="0.8078754" 20="-0.6695527" 21="-0.600060463" 22="0.437749535" 30="273.517578" 31="-20.93354" 32="-494.889648"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_11_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/wood/log_stump_03__StaticObject_11_phys.phys">
+			<transform 30="-494.789063" 31="4.36084032" 32="31.6523438"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_12_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/wood/log_stump_01__StaticObject_12_phys.phys">
+			<transform 30="-497.480469" 31="4.47668839" 32="33.7959"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_13_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/wood/log_stump_03__StaticObject_13_phys.phys">
+			<transform 00="0.122359931" 02="0.9924858" 20="-0.9924858" 22="0.122359931" 30="-497.5586" 31="4.620272" 32="30.21289"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_14_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/wood/log_stump_02__StaticObject_14_phys.phys">
+			<transform 30="-496.504883" 31="4.24634027" 32="32.1230469"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_15_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/wood/logs_stacked_long.phys">
+			<transform 00="0.3251083" 02="-0.9456767" 20="0.9456767" 22="0.3251083" 30="-499.9248" 31="4.830219" 32="25.9501953"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_16_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/wood/log__StaticObject_16_phys.phys">
+			<transform 11="0.9440326" 12="-0.3298522" 21="0.3298522" 22="0.9440326" 30="-497.6211" 31="5.46684361" 32="24.6044922"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_19_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 11="0.975037038" 12="0.222042263" 21="-0.222042263" 22="0.975037038" 30="489" 31="-0.494394839" 32="429.478516"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/wall_broken__StaticObject_1_phys.phys">
+			<transform 30="117.692383" 31="2.7449882" 32="-482.556641"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_20_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="491.68457" 31="-0.427732766" 32="423.578125"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_21_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 00="0.6736602" 02="0.73904115" 20="-0.73904115" 22="0.6736602" 30="455.4004" 31="-1.31181633" 32="463.9912"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_22_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 30="-244.96875" 31="14.5985" 32="-136.084961"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_23_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.phys">
+			<transform 00="0.777108431" 02="0.629366755" 20="-0.629366755" 22="0.777108431" 30="-208.366211" 31="6.3384366" 32="-108.085938"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_24_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_1.phys">
+			<transform 30="-204.416016" 31="6.423561" 32="-109.99707"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_25_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="-219.4502" 31="6.03365469" 32="-100.649414"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_26_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="-241.0166" 31="4.75045252" 32="-85.31543"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_27_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.phys">
+			<transform 30="-496.425781" 31="5.306537" 32="-0.151367188"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_28_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.phys">
+			<transform 30="-496.9004" 31="4.920511" 32="6.998047"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_29_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/hangar.phys">
+			<transform 00="1.42105557E-14" 01="0.99997896" 02="1.97553049E-07" 10="0.99997896" 11="1.42105557E-14" 12="-1.97553049E-07" 20="-1.97557242E-07" 21="1.97557242E-07" 22="-1.00000012" 30="130" 31="2.7104" 32="-499.5996"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rocks_slab_small_01.phys">
+			<transform 00="0.782628" 02="0.6224896" 20="-0.6224896" 22="0.782628" 30="114.975586" 31="3.05938268" 32="-473.198242"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_30_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_spool_structure__StaticObject_30_phys.phys">
+			<transform 00="0.0747808143" 02="-0.9971999" 20="0.9971999" 22="0.0747808143" 30="114.307617" 31="2.73022318" 32="-489.2129"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_32_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_beam__StaticObject_32_phys.phys">
+			<transform 00="0.809294164" 02="0.5874036" 20="-0.5874036" 22="0.809294164" 30="134.272461" 31="2.91598058" 32="-488.495117"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_33_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/workbench_clean__StaticObject_33_phys.phys">
+			<transform 30="148.099609" 31="3" 32="-486.4004"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_34_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_rolled__StaticObject_34_phys.phys">
+			<transform 00="0.784492731" 02="0.620138" 20="-0.620138" 22="0.784492731" 30="148.024414" 31="3.919773" 32="-485.694336"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_35_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/clutter_covered__StaticObject_35_phys.phys">
+			<transform 30="130.680664" 31="2.845356" 32="-487.6045"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_36_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_rolled__StaticObject_36_phys.phys">
+			<transform 30="148.125" 31="3.90590882" 32="-486.084961"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_37_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/workbench_clean__StaticObject_37_phys.phys">
+			<transform 00="0.0220001917" 02="0.999757946" 20="-0.999757946" 22="0.0220001917" 30="140" 31="2.9632" 32="-490"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_39_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_gas_tanks__StaticObject_39_phys.phys">
+			<transform 30="138.741211" 31="2.86023521" 32="-490.598633"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_41_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_boat__StaticObject_41_phys.phys">
+			<transform 30="148.192383" 31="3.90984488" 32="-486.732422"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_42_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/blueprints_boat__StaticObject_42_phys.phys">
+			<transform 00="0.9177447" 01="-0.018872397" 02="0.396722227" 10="0.0188742764" 11="-0.995669544" 12="-0.09102701" 20="0.396722138" 21="0.0910274" 22="-0.91341424" 30="147.231445" 31="3.8933" 32="-485.8662"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_43_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/workbenches/workbench_clean__StaticObject_43_phys.phys">
+			<transform 00="5.96046448E-08" 02="-1" 20="1" 22="5.96046448E-08" 30="147.599609" 31="3" 32="-485.9004"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_4_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/fauna + terra/rocks/rocks_slab_small_01__StaticObject_4_phys.phys">
+			<transform 00="0.253349245" 02="-0.967374861" 20="0.967374861" 22="0.253349245" 30="118.306641" 31="2.71977115" 32="-463.300781"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_5_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/wall_corner__StaticObject_5_phys.phys">
+			<transform 00="0.923384666" 02="0.383876026" 20="-0.383876026" 22="0.923384666" 30="128.765625" 31="3.09585333" 32="-478.37207"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_6_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_big_tank__StaticObject_6_phys.phys">
+			<transform 30="120.043945" 31="3.011742" 32="-471.879883"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_7_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_big_tank__StaticObject_7_phys.phys">
+			<transform 00="-0.5570524" 02="0.8304771" 20="-0.8304771" 22="-0.5570524" 30="118.866211" 31="3.19871473" 32="-474.514648"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_8_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_spool_structure__StaticObject_8_phys.phys">
+			<transform 00="0.1438812" 02="0.989595" 20="-0.989595" 22="0.1438812" 30="128.067383" 31="3.008039" 32="-475.2422"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_9_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_9_9/nso_mod/decoration/clutter/rusted_beam__StaticObject_9_phys.phys">
+			<transform 00="0.474904537" 02="0.8800373" 20="-0.8800373" 22="0.474904537" 30="115.84668" 31="2.925026" 32="-478.069336"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas>
+		<edit_area id="dock_edit_static_back_right" is_static="true">
+			<transform 30="367" 31="15" 32="-490"/>
+			<size x="128" y="48" z="128"/>
+		</edit_area>
+		<edit_area id="dock_edit_static_back_left" is_static="true">
+			<transform 00="1.1920929E-06" 02="-0.99999994" 20="0.99999994" 22="1.1920929E-06" 30="240" 31="15" 32="-490"/>
+			<size x="128" y="48" z="128"/>
+		</edit_area>
+		<edit_area id="dock_edit_2">
+			<transform 00="1.1920929E-06" 02="-0.99999994" 20="0.99999994" 22="1.1920929E-06" 30="258.2285" 31="5" 32="-421.0918"/>
+			<size x="48" y="32" z="128"/>
+		</edit_area>
+		<edit_area id="land_vehicle">
+			<transform 00="5.96046448E-08" 02="-1" 20="1" 22="5.96046448E-08" 30="130" 31="6.8935" 32="-498.4"/>
+			<size x="15" y="8" z="33"/>
+		</edit_area>
+	</edit_areas>
+	<interactables>
+		<interactable id="land_vehicle_interact" target_object_id="land_vehicle" label="Workshop" interact_type="2">
+			<transform 00="0.014938" 02="0.999888" 20="-0.999888" 22="0.014938" 30="140" 31="3.4617" 32="-490"/>
+			<size x="1" y="1" z="2"/>
+		</interactable>
+		<interactable id="terminal_workbench_interact" target_object_id="dock_edit_2" label="Giant Ship" interact_type="2">
+			<transform 30="148.0996" 31="3.5" 32="-486.9"/>
+			<size x="1" y="1" z="1"/>
+		</interactable>
+		<interactable id="terminal_workbench_interact_static_nw" target_object_id="dock_edit_static_back_left" label="Terminal North West (Farthestw)" interact_type="2">
+			<transform 00="0" 02="1" 20="-1" 22="0" 30="148.1" 31="3.5" 32="-485.9"/>
+			<size x="1" y="1" z="1"/>
+		</interactable>
+	</interactables>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

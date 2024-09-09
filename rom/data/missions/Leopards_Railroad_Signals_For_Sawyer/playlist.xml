@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist file_store="4" name="[LRS] Leopard's Railroad Signals - Sawyer">
+	<locations location_id_counter="29" component_id_counter="143">
+		<locations>
+			<l id="1" tile="data/tiles/mega_island_1_3.xml" name="MEGA_ISLAND_1_3" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="73" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.971959" 02="0.23515" 20="-0.23515" 22="0.971959" 30="-473.463013" 31="13.67808" 32="-249.215805"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="74" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.973862" 02="-0.22714" 20="0.22714" 22="-0.973862" 30="-471.060791" 31="11.08608" 32="-330.303589"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="2" tile="data/tiles/mega_island_3_3.xml" name="MEGA_ISLAND_3_3" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="75" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.535648" 02="0.844441" 20="-0.844441" 22="0.535648" 30="342.537811" 31="10.14136" 32="-263.929688"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="76" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.546328" 02="-0.837571" 20="0.837571" 22="-0.546328" 30="403.212402" 31="10.27239" 32="-321.393097"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="3" tile="data/tiles/mega_island_5_3.xml" name="MEGA_ISLAND_5_3" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="77" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.999232" 02="0.039196" 20="-0.039196" 22="-0.999232" 30="354.020386" 31="11.74208" 32="76.594276"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="78" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.998883" 02="-0.047246" 20="0.047246" 22="0.998883" 30="370.7547" 31="12.57519" 32="153.138702"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="4" tile="data/tiles/mega_island_6_5.xml" name="MEGA_ISLAND_6_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="79" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.775018" 02="-0.631939" 20="0.631939" 22="0.775018" 30="308.64209" 31="26.20459" 32="392.024506"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="80" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.780626" 02="0.624999" 20="-0.624999" 22="-0.780626" 30="249.810196" 31="26.15781" 32="339.235687"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="5" tile="data/tiles/mega_island_6_4.xml" name="MEGA_ISLAND_6_4" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="81" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.174914" 02="0.984584" 20="-0.984584" 22="-0.174914" 30="-94.282951" 31="24.257401" 32="-36.193439"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="82" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.177514" 02="0.984118" 20="-0.984118" 22="-0.177514" 30="-92.234032" 31="24.14654" 32="-48.093651"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="83" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.99961" 02="0.027919" 20="-0.027919" 22="-0.99961" 30="272.8862" 31="24.54077" 32="-405.905701"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="84" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.999355" 02="0.03592" 20="-0.03592" 22="-0.999355" 30="285.123108" 31="24.533039" 32="-406.110901"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="85" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.845147" 02="0.534534" 20="-0.534534" 22="0.845147" 30="190.845306" 31="24.5502" 32="428.06131"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="86" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.848857" 02="0.528623" 20="-0.528623" 22="0.848857" 30="179.888397" 31="24.544701" 32="421.093506"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="6" tile="data/tiles/mega_island_7_3.xml" name="MEGA_ISLAND_7_3" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="87" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.663392" 02="0.748272" 20="-0.748272" 22="0.663392" 30="-108.053001" 31="16.986641" 32="-102.963303"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="88" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.67991" 02="-0.733296" 20="0.733296" 22="-0.67991" 30="-58.89941" 31="16.33843" 32="-167.278702"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="7" tile="data/tiles/mega_island_8_0.xml" name="MEGA_ISLAND_8_0" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="89" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.999588" 02="-0.028698" 20="0.028698" 22="-0.999588" 30="4.072906" 31="17.086981" 32="-394.112305"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="90" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.995785" 02="0.091721" 20="-0.091721" 22="0.995785" 30="-13.07454" 31="17.086769" 32="-312.616486"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="8" tile="data/tiles/mega_island_8_1.xml" name="MEGA_ISLAND_8_1" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="91" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.933891" 02="-0.357557" 20="0.357557" 22="-0.933891" 30="-218.539398" 31="15.95193" 32="-502.638611"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="92" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.937571" 02="-0.347795" 20="0.347795" 22="-0.937571" 30="-207.410995" 31="15.95164" 32="-498.320801"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="93" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.972448" 02="0.233119" 20="-0.233119" 22="0.972448" 30="-318.026489" 31="26.974001" 32="308.386597"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="94" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.96947" 02="0.24521" 20="-0.24521" 22="0.96947" 30="-329.776611" 31="26.987539" 32="305.706085"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="95" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.163508" 02="-0.986542" 20="0.986542" 22="-0.163508" 30="377.459808" 31="31.651421" 32="-128.765106"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="96" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.161919" 02="-0.986804" 20="0.986804" 22="-0.161919" 30="379.012787" 31="31.65521" 32="-116.962303"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="9" tile="data/tiles/mega_island_8_2.xml" name="MEGA_ISLAND_8_2" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="97" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.996984" 02="-0.077604" 20="0.077604" 22="0.996984" 30="-348.556885" 31="26.8631" 32="-381.042603"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="98" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.999421" 02="-0.034024" 20="0.034024" 22="-0.999421" 30="-367.086792" 31="28.92384" 32="-461.230011"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="10" tile="data/tiles/mega_island_9_8.xml" name="MEGA_ISLAND_9_8" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="99" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="478.813202" 31="6.4" 32="226.305206"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="100" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="478.813202" 31="6.4" 32="237.813293"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="11" tile="data/tiles/mega_island_10_1.xml" name="MEGA_ISLAND_10_1" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="101" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.013955" 02="0.999903" 20="-0.999903" 22="0.013955" 30="-89.060837" 31="31.849239" 32="-281.9263"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="102" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.009509" 02="-0.999955" 20="0.999955" 22="0.009509" 30="-18.009769" 31="31.562269" 32="-294.528687"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="12" tile="data/tiles/mega_island_10_8.xml" name="MEGA_ISLAND_10_8" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="103" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="-372.665985" 31="8.121194" 32="226.156601"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="104" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="0" 02="1" 20="-1" 22="0" 30="-454.563995" 31="8.121194" 32="237.600693"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="105" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.149498" 02="0.988762" 20="-0.988762" 22="0.149498" 30="415.489594" 31="6.850407" 32="226.800003"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="106" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.134933" 02="0.990855" 20="-0.990855" 22="0.134933" 30="413.200989" 31="6.99797" 32="213.834305"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="13" tile="data/tiles/mega_island_11_7.xml" name="MEGA_ISLAND_11_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="107" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.848221" 02="0.529642" 20="-0.529642" 22="-0.848221" 30="-217.182007" 31="7.172337" 32="390.787415"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="108" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.84798" 02="0.530029" 20="-0.530029" 22="-0.84798" 30="-206.292603" 31="7.385522" 32="384.051514"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="109" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.776213" 02="0.630471" 20="-0.630471" 22="-0.776213" 30="-388.152008" 31="7.003082" 32="166.253494"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="110" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.767529" 02="-0.641014" 20="0.641014" 22="0.767529" 30="-328.638489" 31="7.003208" 32="219.449203"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="14" tile="data/tiles/mega_island_12_1.xml" name="MEGA_ISLAND_12_1" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="111" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.222076" 02="0.975029" 20="-0.975029" 22="-0.222076" 30="242.400101" 31="31.74342" 32="-460.7547"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="112" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.221812" 02="-0.975089" 20="0.975089" 22="0.221812" 30="319.680511" 31="31.79467" 32="-456.278503"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="15" tile="data/tiles/mega_island_12_2.xml" name="MEGA_ISLAND_12_2" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="113" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.90102" 02="-0.433778" 20="0.433778" 22="-0.90102" 30="52.124191" 31="17.46137" 32="459.306213"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="114" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.915106" 02="0.403214" 20="-0.403214" 22="0.915106" 30="31.20409" 31="20.28879" 32="535.491516"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="16" tile="data/tiles/mega_island_12_4.xml" name="MEGA_ISLAND_12_4" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="115" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.59895" 02="0.800787" 20="-0.800787" 22="-0.59895" 30="-219.521896" 31="13.1267" 32="-258.061615"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="116" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.606193" 02="0.795318" 20="-0.795318" 22="-0.606193" 30="-211.881897" 31="13.12669" 32="-267.859711"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="117" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.620881" 02="-0.783905" 20="0.783905" 22="-0.620881" 30="490.414215" 31="12.948" 32="-372.424286"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="118" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.620605" 02="-0.784123" 20="0.784123" 22="-0.620605" 30="497.855286" 31="13.1267" 32="-362.812195"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="119" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.591785" 02="-0.806096" 20="0.806096" 22="0.591785" 30="466.622314" 31="13.06827" 32="291.158813"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="120" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.578449" 02="-0.815719" 20="0.815719" 22="0.578449" 30="459.205811" 31="13.11649" 32="301.259888"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="17" tile="data/tiles/mega_island_12_7.xml" name="MEGA_ISLAND_12_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="121" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 30="-226.226898" 31="4.514125" 32="-217.166"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="122" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="-1" 22="-1" 30="-237.539398" 31="4.236427" 32="-300.190186"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="123" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.900459" 02="-0.434941" 20="0.434941" 22="-0.900459" 30="-381.015686" 31="5.654757" 32="458.058899"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="124" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.891524" 02="-0.452974" 20="0.452974" 22="-0.891524" 30="-369.5755" 31="5.654772" 32="463.77301"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="125" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.986486" 02="0.163843" 20="-0.163843" 22="0.986486" 30="-242.332001" 31="5.593102" 32="65.816406"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="126" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.984055" 02="0.177865" 20="-0.177865" 22="0.984055" 30="-254.151001" 31="5.593102" 32="63.600269"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="18" tile="data/tiles/mega_island_13_4.xml" name="MEGA_ISLAND_13_4" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="127" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.481395" 02="0.876504" 20="-0.876504" 22="-0.481395" 30="-303.738098" 31="13.1267" 32="442.615509"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="128" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.490561" 02="-0.871407" 20="0.871407" 22="0.490561" 30="-232.160599" 31="13.05779" 32="465.949585"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="129" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="0.573157" 02="0.819445" 20="-0.819445" 22="0.573157" 30="-397.861389" 31="12.85835" 32="-440.898712"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="130" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" vehicle_file_store="1">
+						<spawn_transform 00="-0.520412" 02="-0.853915" 20="0.853915" 22="-0.520412" 30="-337.924286" 31="12.96721" 32="-495.945801"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="19" tile="data/tiles/mega_island_13_5.xml" name="MEGA_ISLAND_13_5" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="131" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.999966" 02="0.008191" 20="-0.008191" 22="0.999966" 30="401.691315" 31="13.12663" 32="266.562592"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="132" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.999723" 02="0.023544" 20="-0.023544" 22="0.999723" 30="389.058197" 31="13.12663" 32="266.408691"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="20" tile="data/tiles/mega_island_15_2.xml" name="MEGA_ISLAND_15_2" is_env_mod="true" env_mod_spawn_num="1">
+				<components/>
+			</l>
+			<l id="21" tile="data/tiles/mega_island_15_3.xml" name="MEGA_ISLAND_15_3" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="133" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.894955" 02="0.446156" 20="-0.446156" 22="-0.894955" 30="-56.599918" 31="13.06345" 32="-298.948212"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="134" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.914651" 02="-0.404245" 20="0.404245" 22="0.914651" 30="-36.944839" 31="13.12703" 32="-227.829102"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="135" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="0.891469" 02="-0.453081" 20="0.453081" 22="0.891469" 30="-6.780092" 31="13.1267" 32="-165.922302"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="136" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.895254" 02="0.445557" 20="-0.445557" 22="-0.895254" 30="2.446613" 31="13.12668" 32="-147.252106"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="137" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.898789" 02="0.438383" 20="-0.438383" 22="-0.898789" 30="-47.612949" 31="13.12672" 32="-241.755295"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="138" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="0.886347" 02="-0.463021" 20="0.463021" 22="0.886347" 30="36.893589" 31="13.12665" 32="-72.674812"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="139" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=symmetric" vehicle_file_store="1">
+						<spawn_transform 00="-0.889622" 02="0.456698" 20="-0.456698" 22="-0.889622" 30="-214.212204" 31="13.23252" 32="-218.307404"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="140" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.780788" 02="0.624796" 20="-0.624796" 22="-0.780788" 30="-182.946198" 31="13.0936" 32="-172.603195"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="141" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.781057" 02="0.62446" 20="-0.62446" 22="-0.781057" 30="-151.1409" 31="13.0936" 32="-133.006195"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="142" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.77041" 02="0.637549" 20="-0.637549" 22="-0.77041" 30="-119.3395" 31="13.09359" 32="-93.253738"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="143" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" vehicle_file_store="1">
+						<spawn_transform 00="-0.778563" 02="0.627566" 20="-0.627566" 22="-0.778563" 30="-86.559959" 31="13.09365" 32="-52.303871"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

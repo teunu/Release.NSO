@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="true" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/17_7_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="mesh1" _CT_isTerrain="true" file_name="nso_mod/meshes/structures/buildings/hangar_cockerells.mesh">
+			<transform 00="0.6945869" 02="0.7194089" 20="-0.7194089" 22="0.6945869" 30="-291.38916" 31="16.4" 32="-315.4388"/>
+		</mesh>
+		<mesh id="mesh3" _CT_isTerrain="true" file_name="nso_mod/meshes/structures/blimp_tower.mesh">
+			<transform 00="0.707106948" 02="0.707106948" 20="-0.707106948" 22="0.707106948" 30="-314.0468" 31="16.4795246" 32="-124.665222"/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/hangar_frame_destroyed.mesh">
+			<transform 00="0.687737465" 02="0.7259595" 20="-0.7259595" 22="0.687737465" 30="-287.2461" 31="16.9331532" 32="-252.1377"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="meshes/workbench.mesh">
+			<transform 00="-0.6812552" 02="-0.732046" 20="0.732046" 22="-0.6812552" 30="-317.541016" 31="18.1713848" 32="-258.7798"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/17_7_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="physics_mesh1" file_name="nso_mod/meshes/structures/buildings/hangar_cockerells.phys">
+			<transform 00="0.707107" 02="0.707107" 20="-0.707107" 22="0.707107" 30="-310.05368" 31="16.6847286" 32="-323.09494"/>
+		</physics_mesh>
+		<physics_mesh id="physics_mesh2" file_name="nso_mod/meshes/decoration/clutter/hangar_frame_destroyed.phys">
+			<transform 00="0.707107" 02="0.707107" 20="-0.707107" 22="0.707107" 30="-289.206665" 31="16" 32="-252.6284"/>
+		</physics_mesh>
+		<physics_mesh id="physics_mesh3" _CT_isTerrain="true" file_name="nso_mod/meshes/structures/blimp_tower.phys">
+			<transform 00="0.9998743" 02="-0.0158463474" 20="0.0158463474" 22="0.9998743" 30="-0.146652132" 31="0.0594234467" 32="0.0246865936"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" file_name="nso_mod/meshes/decoration/clutter/hangar_frame_destroyed.phys">
+			<transform 00="0.687738" 02="0.725959" 20="-0.725959" 22="0.687738" 30="-259.587463" 31="13.0048494" 32="-252.1377"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" file_name="nso_mod/meshes/structures/buildings/hangar_cockerells.phys">
+			<transform 00="0.680947" 02="0.732332" 20="-0.732332" 22="0.680947" 30="-289.111328" 31="16.7571545" 32="-311.931152"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/hangar_frame_destroyed.phys">
+			<transform 00="0.687737465" 02="0.7259595" 20="-0.7259595" 22="0.687737465" 30="-287.2461" 31="16.9331532" 32="-252.1377"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys_Transferred_0" _CT_loadIgnore="true" file_name="meshes/workbench_phys.phys">
+			<transform 00="-0.6812552" 02="-0.732046" 20="0.732046" 22="-0.6812552" 30="-317.541016" 31="18.1713848" 32="-258.7798"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni>
+		<light id="omni0" radius="45" is_render_halo="true">
+			<transform 00="0.455462" 02="0.890255" 20="-0.890255" 22="0.455462" 30="-295.508484" 31="25.80815" 32="-311.284241"/>
+			<color x="1" y="1" z="1"/>
+		</light>
+	</lights_omni>
+	<lights_spot>
+		<light id="spot0" range="45" fov="0.5" texture="graphics/ies/ies_default.txtr" is_render_halo="false">
+			<transform 00="0.686625" 02="0.727012" 10="-0.442597" 11="0.793332" 12="0.41801" 20="-0.576762" 21="-0.608789" 22="0.544721" 30="-332.180359" 31="29.12197" 32="-275.792847"/>
+			<color x="1" y="1" z="1"/>
+		</light>
+	</lights_spot>
+	<lights_tube/>
+	<screens/>
+	<edit_areas>
+		<edit_area id="edit">
+			<transform 00="0.694888055" 02="0.7191179" 20="-0.7191179" 22="0.694888055" 30="-361.089844" 31="86.26572" 32="-207.3252"/>
+			<size x="128" y="128" z="128"/>
+		</edit_area>
+	</edit_areas>
+	<interactables>
+		<interactable id="interact" target_object_id="edit" label="Large Workbench" interact_type="2">
+			<transform 00="-0.6745266" 02="-0.7382505" 20="0.7382505" 22="-0.6745266" 30="-317.513672" 31="18.586832" 32="-258.723145"/>
+			<size x="1" y="1.03262544" z="1.62065327"/>
+		</interactable>
+	</interactables>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers>
+		<markers id="tile_marker0" marker_type="5" string_data="Cockerels Airfield" icon="10">
+			<transform 30="-364.978241" 31="17.91848" 32="-180.197754"/>
+		</markers>
+	</tile_markers>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders>
+		<ladder id="ladder_0" height="27">
+			<transform 00="0.708019" 02="0.706194" 20="-0.706194" 22="0.708019" 30="-317.999756" 31="18.883858" 32="-114.323547"/>
+		</ladder>
+	</ladders>
+	<perches>
+		<perch id="perch0">
+			<transform 30="-318.818359" 31="46.833397" 32="-117.777466"/>
+		</perch>
+		<perch id="perch1">
+			<transform 00="0.664259" 02="0.747502" 20="-0.747502" 22="0.664259" 30="-315.624451" 31="46.794594" 32="-123.313019"/>
+		</perch>
+		<perch id="perch2">
+			<transform 30="-316.040619" 31="36.626221" 32="-120.635284"/>
+		</perch>
+		<perch id="perch3">
+			<transform 30="-273.193848" 31="30.26885" 32="-258.944458"/>
+		</perch>
+		<perch id="perch4">
+			<transform 00="0.397438" 02="-0.917629" 20="0.917629" 22="0.397438" 30="-278.104431" 31="29.701117" 32="-264.429169"/>
+		</perch>
+		<perch id="perch5">
+			<transform 30="-262.696503" 31="29.932682" 32="-278.110352"/>
+		</perch>
+	</perches>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

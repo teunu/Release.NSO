@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2" sea_floor_height="-12">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/10_9_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_9/nso_mod/decoration/wall_broken__StaticObject_0.mesh">
+			<transform 00="0.9631641" 01="-0.0926876441" 02="-0.252435952" 10="0.09559096" 11="0.9954204" 12="-0.0007661367" 20="0.2513509" 21="-0.0233926773" 22="0.9676133" 30="-66.06543" 31="-1.88865983" 32="7.794922"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/wall_corner.mesh">
+			<transform 00="0.992456734" 01="-0.0488434024" 02="-0.112445556" 10="0.0491933338" 11="0.998786151" 12="0.000339151971" 20="0.112292513" 21="-0.00586816575" 22="0.993654847" 30="-52.9765625" 31="-2.67864132" 32="5.060547"/>
+		</mesh>
+		<mesh id="StaticObject_10" _CT_loadIgnore="true" file_name="meshes/prop_saucepan.mesh">
+			<transform 11="0.9806434" 12="-0.19580242" 21="0.19580242" 22="0.9806434" 30="-113.464844" 31="-2.68766379" 32="12.0488281"/>
+		</mesh>
+		<mesh id="StaticObject_11" _CT_loadIgnore="true" file_name="meshes/prop_can.mesh">
+			<transform 00="0.05597685" 01="0.9703011" 02="-0.235334516" 10="-0.860702336" 11="-0.07256314" 12="-0.503910363" 20="-0.5060214" 21="0.2307603" 22="0.831078649" 30="-112.331055" 31="-2.70968175" 32="11.6884766"/>
+		</mesh>
+		<mesh id="StaticObject_12" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 30="336.1123" 31="1.676074" 32="-383.31543"/>
+		</mesh>
+		<mesh id="StaticObject_13" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="338.2666" 31="0.520064354" 32="-387.28125"/>
+		</mesh>
+		<mesh id="StaticObject_14" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.mesh">
+			<transform 00="0.8252776" 02="0.564727247" 20="-0.564727247" 22="0.8252776" 30="331.6914" 31="0.00284215063" 32="-46.1875"/>
+		</mesh>
+		<mesh id="StaticObject_15" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 00="0.637102365" 02="-0.7707792" 20="0.7707792" 22="0.637102365" 30="331.671875" 31="-0.2833132" 32="-41.12793"/>
+		</mesh>
+		<mesh id="StaticObject_16" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.mesh">
+			<transform 30="328.7666" 31="-0.050863415" 32="-43.70508"/>
+		</mesh>
+		<mesh id="StaticObject_17" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.mesh">
+			<transform 30="341.790039" 31="-0.8941158" 32="-42.0664063"/>
+		</mesh>
+		<mesh id="StaticObject_18" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.mesh">
+			<transform 30="-100.731445" 31="-0.820681632" 32="24.8554688"/>
+		</mesh>
+		<mesh id="StaticObject_19" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.mesh">
+			<transform 30="-110.196289" 31="-0.334244877" 32="20.7929688"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed03.mesh">
+			<transform 30="-60.453125" 31="-6.27547264" 32="-7.2109375"/>
+		</mesh>
+		<mesh id="StaticObject_20" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.mesh">
+			<transform 30="-115.005859" 31="-0.814895749" 32="13.1865234"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed04.mesh">
+			<transform 00="0.7616998" 02="0.6479301" 20="-0.6479301" 22="0.7616998" 30="-58.3828125" 31="-5.549749" 32="-6.93457031"/>
+		</mesh>
+		<mesh id="StaticObject_4" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed02.mesh">
+			<transform 00="-0.173028156" 02="0.984916866" 11="0.999971867" 20="-0.984916866" 22="-0.173028156" 30="-54.1064453" 31="-4.929274" 32="-1.17578125"/>
+		</mesh>
+		<mesh id="StaticObject_5" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed02.mesh">
+			<transform 00="-0.7766199" 01="-0.228802562" 02="-0.5869501" 10="-0.0949161649" 11="0.9635755" 12="-0.250029385" 20="0.62277776" 21="-0.138466671" 22="-0.770048559" 30="-61.4169922" 31="-5.028253" 32="-1.51367188"/>
+		</mesh>
+		<mesh id="StaticObject_6" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed02.mesh">
+			<transform 30="-67.4668" 31="-6.5209465" 32="-7.61035156"/>
+		</mesh>
+		<mesh id="StaticObject_7" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed05.mesh">
+			<transform 11="0.9991621" 12="-0.0408534259" 21="0.0408534259" 22="0.9991621" 30="-69.99902" 31="-2.79576349" 32="18.6289063"/>
+		</mesh>
+		<mesh id="StaticObject_8" _CT_loadIgnore="true" file_name="meshes/undersea_assets/sea_weed05.mesh">
+			<transform 30="-72.859375" 31="-3.88183784" 32="16.4306641"/>
+		</mesh>
+		<mesh id="StaticObject_9" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_9/nso_mod/decoration/wall_broken__StaticObject_9.mesh">
+			<transform 00="-0.9789786" 01="0.156451166" 02="-0.130858421" 10="0.143723071" 11="0.9843805" 12="0.10167978" 20="0.1447224" 21="0.08073495" 22="-0.986173034" 30="-107.928711" 31="-2.89823341" 32="9.943359"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="mesh0_IdConflicted_0" file_name="nso_mod/meshes/tiles/10_9_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_9/nso_mod/decoration/wall_broken__StaticObject_0_phys.phys">
+			<transform 00="0.9631641" 01="-0.0926876441" 02="-0.252435952" 10="0.09559096" 11="0.9954204" 12="-0.0007661367" 20="0.2513509" 21="-0.0233926773" 22="0.9676133" 30="-66.06543" 31="-1.88865983" 32="7.794922"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_12_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 30="336.1123" 31="1.676074" 32="-383.31543"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_13_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="338.2666" 31="0.520064354" 32="-387.28125"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_14_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.phys">
+			<transform 00="0.8252776" 02="0.564727247" 20="-0.564727247" 22="0.8252776" 30="331.6914" 31="0.00284215063" 32="-46.1875"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_15_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 00="0.637102365" 02="-0.7707792" 20="0.7707792" 22="0.637102365" 30="331.671875" 31="-0.2833132" 32="-41.12793"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_16_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.phys">
+			<transform 30="328.7666" 31="-0.050863415" 32="-43.70508"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_17_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_4.phys">
+			<transform 30="341.790039" 31="-0.8941158" 32="-42.0664063"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_18_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_2.phys">
+			<transform 30="-100.731445" 31="-0.820681632" 32="24.8554688"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_19_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_1.phys">
+			<transform 30="-110.196289" 31="-0.334244877" 32="20.7929688"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_9/nso_mod/decoration/wall_corner__StaticObject_1_phys.phys">
+			<transform 00="0.992456734" 01="-0.0488434024" 02="-0.112445556" 10="0.0491933338" 11="0.998786151" 12="0.000339151971" 20="0.112292513" 21="-0.00586816575" 22="0.993654847" 30="-52.9765625" 31="-2.67864132" 32="5.060547"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_20_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.phys">
+			<transform 30="-115.005859" 31="-0.814895749" 32="13.1865234"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_9_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_9/nso_mod/decoration/wall_broken__StaticObject_9_phys.phys">
+			<transform 00="-0.9789786" 01="0.156451166" 02="-0.130858421" 10="0.143723071" 11="0.9843805" 12="0.10167978" 20="0.1447224" 21="0.08073495" 22="-0.986173034" 30="-107.928711" 31="-2.89823341" 32="9.943359"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

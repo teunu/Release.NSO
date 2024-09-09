@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="true" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/17_2_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_17_2/nso_mod/structures/bridges/RectBrown__StaticObject_0.mesh">
+			<transform 00="0.898764551" 02="-0.43843165" 20="0.43843165" 22="0.898764551" 30="-475.7207" 31="7.3449955" 32="426.9463"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="meshes/arid_mainland_assets/gold_lab.mesh">
+			<transform 00="0.173648283" 02="0.9848077" 20="-0.9848077" 22="0.173648283" 30="-464.4414" 31="6.359104" 32="-463.630859"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="meshes/arid_mainland_assets/old_coal_building.mesh">
+			<transform 00="0.984807849" 02="-0.173647672" 20="0.173647672" 22="0.984807849" 30="-424.603516" 31="6.552345" 32="-482.508057"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="meshes/arid_mainland_assets/steelmill_pipes.mesh">
+			<transform 00="0.984807849" 02="-0.173647672" 20="0.173647672" 22="0.984807849" 30="-430.515625" 31="7" 32="-370.23877"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/17_2_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_17_2/nso_mod/structures/bridges/RectBrown__StaticObject_0_phys.phys">
+			<transform 00="0.898764551" 02="-0.43843165" 20="0.43843165" 22="0.898764551" 30="-475.7207" 31="7.3449955" 32="426.9463"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="meshes/arid_mainland_assets/gold_lab_phys.phys">
+			<transform 00="0.173648283" 02="0.9848077" 20="-0.9848077" 22="0.173648283" 30="-464.4414" 31="6.359104" 32="-463.630859"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" _CT_loadIgnore="true" file_name="meshes/arid_mainland_assets/old_coal_building_phys.phys">
+			<transform 00="0.984807849" 02="-0.173647672" 20="0.173647672" 22="0.984807849" 30="-424.603516" 31="6.552345" 32="-482.508057"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_3_phys" _CT_loadIgnore="true" file_name="meshes/arid_mainland_assets/steelmill_pipes_phys.phys">
+			<transform 00="0.984807849" 02="-0.173647672" 20="0.173647672" 22="0.984807849" 30="-430.515625" 31="7" 32="-370.23877"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

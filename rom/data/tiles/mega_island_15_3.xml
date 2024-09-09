@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="true" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/15_3_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/3SDefault.mesh">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998569" 20="-0.6427868" 22="-0.766045" 30="-156.511719" 31="8.132177" 32="-441.262939"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SStore.mesh">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998569" 20="-0.6427868" 22="-0.766045" 30="-146.993164" 31="8.1322" 32="-449.252441"/>
+		</mesh>
+		<mesh id="StaticObject_10" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SStore.mesh">
+			<transform 00="0.6427877" 02="0.7660444" 20="-0.7660444" 22="0.6427877" 30="-71.2119141" 31="8.146047" 32="-466.802246"/>
+		</mesh>
+		<mesh id="StaticObject_11" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Padde.mesh">
+			<transform 00="-0.768555343" 02="0.639782369" 20="-0.639782369" 22="-0.768555343" 30="-49.2910156" 31="8.045031" 32="-458.615479"/>
+		</mesh>
+		<mesh id="StaticObject_12" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.mesh">
+			<transform 00="0.9377949" 02="0.347189158" 20="-0.347189158" 22="0.9377949" 30="-62.6835938" 31="8.106426" 32="-461.206543"/>
+		</mesh>
+		<mesh id="StaticObject_13" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/ConcreteDivider__StaticObject_13.mesh">
+			<transform 00="0.8207572" 02="0.571277142" 20="-0.571277142" 22="0.8207572" 30="-80.70703" 31="6.472554" 32="-471.6277"/>
+		</mesh>
+		<mesh id="StaticObject_14" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/car_yard.mesh">
+			<transform 00="-0.6427881" 01="1.50874172E-07" 02="-0.7660435" 10="-0.0132447509" 11="0.9998475" 12="0.0111138849" 20="0.765929" 21="0.0172899812" 22="-0.642692" 30="-140.442383" 31="8.04661751" 32="-408.386963"/>
+		</mesh>
+		<mesh id="StaticObject_15" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_long__StaticObject_15.mesh">
+			<transform 00="0.8657658" 02="-0.500449359" 20="0.500449359" 22="0.8657658" 30="-121.856445" 31="8.498668" 32="-399.4624"/>
+		</mesh>
+		<mesh id="StaticObject_16" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/2S_Modern__StaticObject_16.mesh">
+			<transform 00="-0.8556223" 02="0.5176008" 20="-0.5176008" 22="-0.8556223" 30="-130.2461" 31="8.247127" 32="-438.141846"/>
+		</mesh>
+		<mesh id="StaticObject_17" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_broken__StaticObject_17.mesh">
+			<transform 00="-0.432104141" 01="0.15784952" 02="0.887901843" 10="0.0690735653" 11="0.9874632" 12="-0.1419342" 20="-0.899174631" 21="1.937151E-07" 22="-0.437590152" 30="-164.885742" 31="8.041405" 32="-438.161865"/>
+		</mesh>
+		<mesh id="StaticObject_18" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_18.mesh">
+			<transform 00="0.822673559" 02="0.568514049" 20="-0.568514049" 22="0.822673559" 30="-161.736328" 31="7.83970737" 32="-431.053955"/>
+		</mesh>
+		<mesh id="StaticObject_19" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_corner__StaticObject_19.mesh">
+			<transform 00="-0.937986135" 02="0.346672624" 20="-0.346672624" 22="-0.937986135" 30="-173.469727" 31="8.281542" 32="-447.667"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Padde.mesh">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-134.021484" 31="8.210184" 32="-458.0935"/>
+		</mesh>
+		<mesh id="StaticObject_20" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.mesh">
+			<transform 00="0.5318985" 02="0.846808136" 20="-0.846808136" 22="0.5318985" 30="-73.27637" 31="8.21456051" 32="-442.765381"/>
+		</mesh>
+		<mesh id="StaticObject_21" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_21.mesh">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-83.7793" 31="8.048196" 32="-429.8125"/>
+		</mesh>
+		<mesh id="StaticObject_22" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_22.mesh">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-88.4472656" 31="8.04344" 32="-434.1797"/>
+		</mesh>
+		<mesh id="StaticObject_23" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_23.mesh">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-93.0556641" 31="8.024227" 32="-438.66333"/>
+		</mesh>
+		<mesh id="StaticObject_24" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_24.mesh">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-97.69531" 31="8.024228" 32="-443.080078"/>
+		</mesh>
+		<mesh id="StaticObject_25" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/3SDefault__StaticObject_25.mesh">
+			<transform 00="-0.6427884" 02="-0.7660438" 20="0.7660438" 22="-0.6427884" 30="-102.7666" 31="8.090984" 32="-449.338135"/>
+		</mesh>
+		<mesh id="StaticObject_26" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.mesh">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998748" 20="-0.6427868" 22="-0.766045" 30="-108.072266" 31="8.102027" 32="-441.797119"/>
+		</mesh>
+		<mesh id="StaticObject_27" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/ConcreteDivider.mesh">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-108.244141" 31="7.7289176" 32="-441.5625"/>
+		</mesh>
+		<mesh id="StaticObject_28" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_corner__StaticObject_28.mesh">
+			<transform 00="0.937439859" 02="-0.3481473" 20="0.3481473" 22="0.937439859" 30="-117.435547" 31="8.894288" 32="-436.865967"/>
+		</mesh>
+		<mesh id="StaticObject_29" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_long__StaticObject_29.mesh">
+			<transform 00="0.9521951" 02="0.305490583" 20="-0.305490583" 22="0.9521951" 30="-100.822266" 31="8.036418" 32="-434.9414"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Padde.mesh">
+			<transform 00="-0.789520264" 02="0.61372447" 11="0.9999999" 20="-0.61372447" 22="-0.789520264" 30="-117.831055" 31="8.257509" 32="-446.9502"/>
+		</mesh>
+		<mesh id="StaticObject_30" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/clutter/rusted_gas_tanks.mesh">
+			<transform 30="-101.693359" 31="7.827057" 32="-440.9458"/>
+		</mesh>
+		<mesh id="StaticObject_31" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/box_stack__StaticObject_31.mesh">
+			<transform 00="0.7387177" 02="-0.674015" 20="0.674015" 22="0.7387177" 30="-105.137695" 31="7.821088" 32="-438.35498"/>
+		</mesh>
+		<mesh id="StaticObject_32" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/wood_stacked__StaticObject_32.mesh">
+			<transform 00="0.5189073" 02="-0.8548305" 20="0.8548305" 22="0.5189073" 30="-98.06152" 31="8.750123" 32="-437.8479"/>
+		</mesh>
+		<mesh id="StaticObject_33" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.mesh">
+			<transform 00="0.5318989" 02="0.8468077" 20="-0.8468077" 22="0.5318989" 30="-79.1972656" 31="8.214575" 32="-449.548584"/>
+		</mesh>
+		<mesh id="StaticObject_34" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.mesh">
+			<transform 00="0.5318989" 02="0.8468077" 20="-0.8468077" 22="0.5318989" 30="-84.9248047" 31="8.214575" 32="-456.40332"/>
+		</mesh>
+		<mesh id="StaticObject_35" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_35.mesh">
+			<transform 00="0.6059312" 01="0.06975645" 02="0.7924528" 10="-0.042370826" 11="0.9975641" 12="-0.05541368" 20="-0.7943879" 21="-1.862645E-09" 22="0.607410848" 30="-109.553711" 31="8.506761" 32="-453.6194"/>
+		</mesh>
+		<mesh id="StaticObject_36" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.mesh">
+			<transform 00="-0.642790437" 02="-0.7660413" 20="0.7660413" 22="-0.642790437" 30="-98.6347656" 31="8.146598" 32="-473.232178"/>
+		</mesh>
+		<mesh id="StaticObject_37" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/2SGarage__StaticObject_37.mesh">
+			<transform 00="0.378188252" 02="-0.925728738" 20="0.925728738" 22="0.378188252" 30="-101.689453" 31="8.028328" 32="-460.595459"/>
+		</mesh>
+		<mesh id="StaticObject_38" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_broken__StaticObject_38.mesh">
+			<transform 00="-0.996587336" 01="-0.05722257" 02="0.0594922" 10="-0.0558662" 11="0.9981445" 12="0.02421908" 20="-0.0607676879" 21="0.0208128262" 22="-0.997934937" 30="-86.29883" 31="8.393908" 32="-462.0713"/>
+		</mesh>
+		<mesh id="StaticObject_39" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_39.mesh">
+			<transform 00="0.8919469" 02="0.452140152" 20="-0.452140152" 22="0.8919469" 30="-107.706055" 31="8.009103" 32="-465.25415"/>
+		</mesh>
+		<mesh id="StaticObject_4" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_L.mesh">
+			<transform 00="-0.1739209" 02="0.984759569" 20="-0.984759569" 22="-0.1739209" 30="-91.10547" 31="8.28449249" 32="-494.9016"/>
+		</mesh>
+		<mesh id="StaticObject_40" _CT_loadIgnore="true" file_name="nso_mod/meshes/decoration/wall_straight_short.mesh">
+			<transform 00="0.897552431" 01="-0.0123587986" 02="0.440734357" 10="0.01109352" 11="0.999923646" 12="0.00544735976" 20="-0.440768" 21="4.65661243E-09" 22="0.8976209" 30="-105.635742" 31="7.568484" 32="-471.0271"/>
+		</mesh>
+		<mesh id="StaticObject_41" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_corner__StaticObject_41.mesh">
+			<transform 00="0.9384586" 02="-0.345391661" 20="0.345391661" 22="0.9384586" 30="-103.293945" 31="8.421254" 32="-476.728027"/>
+		</mesh>
+		<mesh id="StaticObject_42" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/box_stack__StaticObject_42.mesh">
+			<transform 00="-0.392131567" 02="-0.9199092" 20="0.9199092" 22="-0.392131567" 30="-105.495117" 31="8.028465" 32="-475.362549"/>
+		</mesh>
+		<mesh id="StaticObject_43" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.mesh">
+			<transform 00="-0.642790437" 02="-0.7660413" 20="0.7660413" 22="-0.642790437" 30="183.767578" 31="8.1" 32="-496.7998"/>
+		</mesh>
+		<mesh id="StaticObject_44" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Default.mesh">
+			<transform 00="0.732564747" 02="-0.680697262" 20="0.680697262" 22="0.732564747" 30="175.607422" 31="8.1" 32="-488.94043"/>
+		</mesh>
+		<mesh id="StaticObject_45" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern2.mesh">
+			<transform 00="-0.9998998" 02="0.0140481573" 20="-0.0140481573" 22="-0.9998998" 30="153.113281" 31="8.1" 32="-491.719482"/>
+		</mesh>
+		<mesh id="StaticObject_46" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Default.mesh">
+			<transform 00="-0.8695951" 02="-0.493765" 11="0.9999999" 20="0.493765" 22="-0.8695951" 30="138.551758" 31="8.1" 32="-492.1731"/>
+		</mesh>
+		<mesh id="StaticObject_47" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern2.mesh">
+			<transform 00="-0.436731875" 02="-0.899591446" 11="0.9999987" 20="0.899591446" 22="-0.436731875" 30="207.259766" 31="8.1" 32="-477.6223"/>
+		</mesh>
+		<mesh id="StaticObject_48" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern2.mesh">
+			<transform 00="-0.4448326" 02="-0.8956137" 20="0.8956137" 22="-0.4448326" 30="212.361328" 31="8.099997" 32="-466.930664"/>
+		</mesh>
+		<mesh id="StaticObject_49" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern.mesh">
+			<transform 00="0.433861554" 02="0.9009796" 20="-0.9009796" 22="0.433861554" 30="198.865234" 31="8.099998" 32="-457.2876"/>
+		</mesh>
+		<mesh id="StaticObject_5" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/ConcreteDivider.mesh">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-96.78613" 31="8.13872051" 32="-491.008057"/>
+		</mesh>
+		<mesh id="StaticObject_50" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern.mesh">
+			<transform 00="0.4510985" 02="0.8924739" 20="-0.8924739" 22="0.4510985" 30="194.080078" 31="8.099998" 32="-467.140381"/>
+		</mesh>
+		<mesh id="StaticObject_51" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.mesh">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="224.120117" 31="8.067262" 32="-495.6692"/>
+		</mesh>
+		<mesh id="StaticObject_52" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.mesh">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="226.790039" 31="8.067262" 32="-489.873779"/>
+		</mesh>
+		<mesh id="StaticObject_53" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.mesh">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="229.7461" 31="8.067262" 32="-484.1001"/>
+		</mesh>
+		<mesh id="StaticObject_54" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.mesh">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="230.569336" 31="8.067262" 32="-477.700439"/>
+		</mesh>
+		<mesh id="StaticObject_55" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.mesh">
+			<transform 00="-0.5406021" 02="0.841278434" 20="-0.841278434" 22="-0.5406021" 30="231.207031" 31="8.1" 32="-466.8911"/>
+		</mesh>
+		<mesh id="StaticObject_56" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.mesh">
+			<transform 00="0.6427877" 02="0.7660444" 20="-0.7660444" 22="0.6427877" 30="105.422852" 31="8.1" 32="-494.478516"/>
+		</mesh>
+		<mesh id="StaticObject_57" _CT_loadIgnore="true" file_name="meshes/workbench.mesh">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-147.585938" 31="9.014858" 32="-419.945557"/>
+		</mesh>
+		<mesh id="StaticObject_6" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/3SDefault.mesh">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998569" 20="-0.6427868" 22="-0.766045" 30="-87.3291" 31="8.168879" 32="-498.9126"/>
+		</mesh>
+		<mesh id="StaticObject_7" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SGarage.mesh">
+			<transform 00="0.6427877" 02="0.7660444" 20="-0.7660444" 22="0.6427877" 30="-88.8310547" 31="8.294569" 32="-487.859863"/>
+		</mesh>
+		<mesh id="StaticObject_8" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.mesh">
+			<transform 00="-0.382954" 02="0.9237677" 11="0.9999999" 20="-0.9237677" 22="-0.382954" 30="-109.413086" 31="8.109335" 32="-460.337646"/>
+		</mesh>
+		<mesh id="StaticObject_9" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/3SDefault.mesh">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-79.5722656" 31="8.308853" 32="-481.182373"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/15_3_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/3SDefault.phys">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998569" 20="-0.6427868" 22="-0.766045" 30="-156.511719" 31="8.132177" 32="-441.262939"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_10_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SStore.phys">
+			<transform 00="0.6427877" 02="0.7660444" 20="-0.7660444" 22="0.6427877" 30="-71.2119141" 31="8.146047" 32="-466.802246"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_11_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Padde.phys">
+			<transform 00="-0.768555343" 02="0.639782369" 20="-0.639782369" 22="-0.768555343" 30="-49.2910156" 31="8.045031" 32="-458.615479"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_12_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.phys">
+			<transform 00="0.9377949" 02="0.347189158" 20="-0.347189158" 22="0.9377949" 30="-62.6835938" 31="8.106426" 32="-461.206543"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_13_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/ConcreteDivider__StaticObject_13_phys.phys">
+			<transform 00="0.8207572" 02="0.571277142" 20="-0.571277142" 22="0.8207572" 30="-80.70703" 31="6.472554" 32="-471.6277"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_14_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/car_yard__StaticObject_14_phys.phys">
+			<transform 00="-0.6427881" 01="1.50874172E-07" 02="-0.7660435" 10="-0.0132447509" 11="0.9998475" 12="0.0111138849" 20="0.765929" 21="0.0172899812" 22="-0.642692" 30="-140.442383" 31="8.04661751" 32="-408.386963"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_15_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_long__StaticObject_15_phys.phys">
+			<transform 00="0.8657658" 02="-0.500449359" 20="0.500449359" 22="0.8657658" 30="-121.856445" 31="8.498668" 32="-399.4624"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_16_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/2S_Modern__StaticObject_16_phys.phys">
+			<transform 00="-0.8556223" 02="0.5176008" 20="-0.5176008" 22="-0.8556223" 30="-130.2461" 31="8.247127" 32="-438.141846"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_17_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_broken__StaticObject_17_phys.phys">
+			<transform 00="-0.432104141" 01="0.15784952" 02="0.887901843" 10="0.0690735653" 11="0.9874632" 12="-0.1419342" 20="-0.899174631" 21="1.937151E-07" 22="-0.437590152" 30="-164.885742" 31="8.041405" 32="-438.161865"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_18_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_18_phys.phys">
+			<transform 00="0.822673559" 02="0.568514049" 20="-0.568514049" 22="0.822673559" 30="-161.736328" 31="7.83970737" 32="-431.053955"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_19_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_corner__StaticObject_19_phys.phys">
+			<transform 00="-0.937986135" 02="0.346672624" 20="-0.346672624" 22="-0.937986135" 30="-173.469727" 31="8.281542" 32="-447.667"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SStore.phys">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998569" 20="-0.6427868" 22="-0.766045" 30="-146.993164" 31="8.1322" 32="-449.252441"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_20_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.phys">
+			<transform 00="0.5318985" 02="0.846808136" 20="-0.846808136" 22="0.5318985" 30="-73.27637" 31="8.21456051" 32="-442.765381"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_21_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_21_phys.phys">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-83.7793" 31="8.048196" 32="-429.8125"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_22_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_22_phys.phys">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-88.4472656" 31="8.04344" 32="-434.1797"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_23_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_23_phys.phys">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-93.0556641" 31="8.024227" 32="-438.66333"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_24_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/Garage__StaticObject_24_phys.phys">
+			<transform 00="-0.636970937" 02="-0.770887852" 20="0.770887852" 22="-0.636970937" 30="-97.69531" 31="8.024228" 32="-443.080078"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_25_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/3SDefault__StaticObject_25_phys.phys">
+			<transform 00="-0.6427884" 02="-0.7660438" 20="0.7660438" 22="-0.6427884" 30="-102.7666" 31="8.090984" 32="-449.338135"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_26_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.phys">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998748" 20="-0.6427868" 22="-0.766045" 30="-108.072266" 31="8.102027" 32="-441.797119"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_27_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/ConcreteDivider.phys">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-108.244141" 31="7.7289176" 32="-441.5625"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_28_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_corner__StaticObject_28_phys.phys">
+			<transform 00="0.937439859" 02="-0.3481473" 20="0.3481473" 22="0.937439859" 30="-117.435547" 31="8.894288" 32="-436.865967"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_29_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_long__StaticObject_29_phys.phys">
+			<transform 00="0.9521951" 02="0.305490583" 20="-0.305490583" 22="0.9521951" 30="-100.822266" 31="8.036418" 32="-434.9414"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Padde.phys">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-134.021484" 31="8.210184" 32="-458.0935"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_30_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/rusted_gas_tanks__StaticObject_30_phys.phys">
+			<transform 30="-101.693359" 31="7.827057" 32="-440.9458"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_31_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/box_stack__StaticObject_31_phys.phys">
+			<transform 00="0.7387177" 02="-0.674015" 20="0.674015" 22="0.7387177" 30="-105.137695" 31="7.821088" 32="-438.35498"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_32_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/wood_stacked__StaticObject_32_phys.phys">
+			<transform 00="0.5189073" 02="-0.8548305" 20="0.8548305" 22="0.5189073" 30="-98.06152" 31="8.750123" 32="-437.8479"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_33_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.phys">
+			<transform 00="0.5318989" 02="0.8468077" 20="-0.8468077" 22="0.5318989" 30="-79.1972656" 31="8.214575" 32="-449.548584"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_34_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.phys">
+			<transform 00="0.5318989" 02="0.8468077" 20="-0.8468077" 22="0.5318989" 30="-84.9248047" 31="8.214575" 32="-456.40332"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_35_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_35_phys.phys">
+			<transform 00="0.6059312" 01="0.06975645" 02="0.7924528" 10="-0.042370826" 11="0.9975641" 12="-0.05541368" 20="-0.7943879" 21="-1.862645E-09" 22="0.607410848" 30="-109.553711" 31="8.506761" 32="-453.6194"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_36_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.phys">
+			<transform 00="-0.642790437" 02="-0.7660413" 20="0.7660413" 22="-0.642790437" 30="-98.6347656" 31="8.146598" 32="-473.232178"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_37_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/structures/houses/2SGarage__StaticObject_37_phys.phys">
+			<transform 00="0.378188252" 02="-0.925728738" 20="0.925728738" 22="0.378188252" 30="-101.689453" 31="8.028328" 32="-460.595459"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_38_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_broken__StaticObject_38_phys.phys">
+			<transform 00="-0.996587336" 01="-0.05722257" 02="0.0594922" 10="-0.0558662" 11="0.9981445" 12="0.02421908" 20="-0.0607676879" 21="0.0208128262" 22="-0.997934937" 30="-86.29883" 31="8.393908" 32="-462.0713"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_39_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_39_phys.phys">
+			<transform 00="0.8919469" 02="0.452140152" 20="-0.452140152" 22="0.8919469" 30="-107.706055" 31="8.009103" 32="-465.25415"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_3_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Padde.phys">
+			<transform 00="-0.789520264" 02="0.61372447" 11="0.9999999" 20="-0.61372447" 22="-0.789520264" 30="-117.831055" 31="8.257509" 32="-446.9502"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_40_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_straight_short__StaticObject_40_phys.phys">
+			<transform 00="0.897552431" 01="-0.0123587986" 02="0.440734357" 10="0.01109352" 11="0.999923646" 12="0.00544735976" 20="-0.440768" 21="4.65661243E-09" 22="0.8976209" 30="-105.635742" 31="7.568484" 32="-471.0271"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_41_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/wall_corner__StaticObject_41_phys.phys">
+			<transform 00="0.9384586" 02="-0.345391661" 20="0.345391661" 22="0.9384586" 30="-103.293945" 31="8.421254" 32="-476.728027"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_42_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_15_3/nso_mod/decoration/clutter/box_stack__StaticObject_42_phys.phys">
+			<transform 00="-0.392131567" 02="-0.9199092" 20="0.9199092" 22="-0.392131567" 30="-105.495117" 31="8.028465" 32="-475.362549"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_43_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.phys">
+			<transform 00="-0.642790437" 02="-0.7660413" 20="0.7660413" 22="-0.642790437" 30="183.767578" 31="8.1" 32="-496.7998"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_44_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Default.phys">
+			<transform 00="0.732564747" 02="-0.680697262" 20="0.680697262" 22="0.732564747" 30="175.607422" 31="8.1" 32="-488.94043"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_45_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern2.phys">
+			<transform 00="-0.9998998" 02="0.0140481573" 20="-0.0140481573" 22="-0.9998998" 30="153.113281" 31="8.1" 32="-491.719482"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_46_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Default.phys">
+			<transform 00="-0.8695951" 02="-0.493765" 11="0.9999999" 20="0.493765" 22="-0.8695951" 30="138.551758" 31="8.1" 32="-492.1731"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_47_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern2.phys">
+			<transform 00="-0.436731875" 02="-0.899591446" 11="0.9999987" 20="0.899591446" 22="-0.436731875" 30="207.259766" 31="8.1" 32="-477.6223"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_48_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern2.phys">
+			<transform 00="-0.4448326" 02="-0.8956137" 20="0.8956137" 22="-0.4448326" 30="212.361328" 31="8.099997" 32="-466.930664"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_49_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern.phys">
+			<transform 00="0.433861554" 02="0.9009796" 20="-0.9009796" 22="0.433861554" 30="198.865234" 31="8.099998" 32="-457.2876"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_4_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_L.phys">
+			<transform 00="-0.1739209" 02="0.984759569" 20="-0.984759569" 22="-0.1739209" 30="-91.10547" 31="8.28449249" 32="-494.9016"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_50_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern.phys">
+			<transform 00="0.4510985" 02="0.8924739" 20="-0.8924739" 22="0.4510985" 30="194.080078" 31="8.099998" 32="-467.140381"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_51_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.phys">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="224.120117" 31="8.067262" 32="-495.6692"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_52_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.phys">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="226.790039" 31="8.067262" 32="-489.873779"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_53_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.phys">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="229.7461" 31="8.067262" 32="-484.1001"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_54_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/Garage.phys">
+			<transform 00="0.317838728" 02="0.9481448" 20="-0.9481448" 22="0.317838728" 30="230.569336" 31="8.067262" 32="-477.700439"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_55_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.phys">
+			<transform 00="-0.5406021" 02="0.841278434" 20="-0.841278434" 22="-0.5406021" 30="231.207031" 31="8.1" 32="-466.8911"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_56_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SDefault.phys">
+			<transform 00="0.6427877" 02="0.7660444" 20="-0.7660444" 22="0.6427877" 30="105.422852" 31="8.1" 32="-494.478516"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_57_phys" _CT_loadIgnore="true" file_name="meshes/workbench_phys.phys">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-147.585938" 31="9.014858" 32="-419.945557"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_5_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/ConcreteDivider.phys">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-96.78613" 31="8.13872051" 32="-491.008057"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_6_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/3SDefault.phys">
+			<transform 00="-0.766045" 02="0.6427868" 11="0.999998569" 20="-0.6427868" 22="-0.766045" 30="-87.3291" 31="8.168879" 32="-498.9126"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_7_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2SGarage.phys">
+			<transform 00="0.6427877" 02="0.7660444" 20="-0.7660444" 22="0.6427877" 30="-88.8310547" 31="8.294569" 32="-487.859863"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_8_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/2S_Modern3.phys">
+			<transform 00="-0.382954" 02="0.9237677" 11="0.9999999" 20="-0.9237677" 22="-0.382954" 30="-109.413086" 31="8.109335" 32="-460.337646"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_9_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/houses/3SDefault.phys">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-79.5722656" 31="8.308853" 32="-481.182373"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas>
+		<edit_area id="Yard">
+			<transform 00="-0.7660446" 02="0.6427874" 20="-0.6427874" 22="-0.7660446" 30="-138.0957" 31="15.7865124" 32="-406.103271"/>
+			<size x="10" y="15" z="30"/>
+		</edit_area>
+	</edit_areas>
+	<interactables>
+		<interactable id="interact" target_object_id="Yard" label="Workbench" interact_type="2">
+			<transform 00="0.7660447" 02="-0.642787337" 20="0.642787337" 22="0.7660447" 30="-147.491211" 31="9.472691" 32="-419.994873"/>
+			<size x="0.9214408" y="0.743547261" z="1.65414476"/>
+		</interactable>
+	</interactables>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2" sea_floor_height="-12">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/11_8_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_139_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_0.mesh">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_139_1" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_1.mesh">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_139_2" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_2.mesh">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_139_3" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_3.mesh">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_140_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_140_0.mesh">
+			<transform 30="403.040039" 31="15" 32="217.160156"/>
+		</mesh>
+		<mesh id="ExtrudedTrackMesh_Curve_140_1" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_140_1.mesh">
+			<transform 30="403.040039" 31="15" 32="217.160156"/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 00="0.07054001" 02="0.997508943" 20="-0.997508943" 22="0.07054001" 30="-174.943359" 31="0.7061299" 32="456.768555"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.mesh">
+			<transform 30="-180.9502" 31="-0.94430393" 32="458.307617"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.mesh">
+			<transform 00="-0.317529917" 01="0.5674676" 02="-0.7597072" 10="-0.524213552" 11="0.5625646" 12="0.6393129" 20="0.790174" 21="0.60125" 22="0.118843161" 30="-151.977539" 31="8.677866" 32="449.464844"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 30="-147.734375" 31="9.927478" 32="449.8496"/>
+		</mesh>
+		<mesh id="StaticObject_4" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.mesh">
+			<transform 00="-0.989269733" 02="0.146090016" 20="-0.146090016" 22="-0.989269733" 30="-145.15332" 31="10.6090384" 32="449.6338"/>
+		</mesh>
+		<mesh id="StaticObject_5" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_11_8/nso_mod/fauna + terra/rocks/rock_big_3__StaticObject_5.mesh">
+			<transform 00="0.919478834" 01="0.288577616" 02="-0.266986132" 10="-0.299447477" 11="0.954112768" 12="-6.70552254E-08" 20="0.254734874" 21="0.0799483955" 22="0.963700354" 30="-141.429688" 31="11.01572" 32="446.7334"/>
+		</mesh>
+		<mesh id="StaticObject_6" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.mesh">
+			<transform 30="-147.036133" 31="6.81953669" 32="456.49707"/>
+		</mesh>
+		<mesh id="StaticObject_7" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.mesh">
+			<transform 00="0.158278152" 02="0.9873946" 20="-0.9873946" 22="0.158278152" 30="-152.328125" 31="11.0019836" 32="440.567383"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="mesh_0" file_name="nso_mod/meshes/tiles/11_8_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_139_0_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_0.phys">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_139_1_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_1.phys">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_139_2_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_2.phys">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_139_3_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_139_3.phys">
+			<transform 30="-195.5" 31="15" 32="205.944336"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_140_0_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_140_0.phys">
+			<transform 30="403.040039" 31="15" 32="217.160156"/>
+		</physics_mesh>
+		<physics_mesh id="ExtrudedTrackMesh_Curve_140_1_Transferred_0" _CT_loadIgnore="true" file_name="meshes/extruded_track_pieces/mega_island_11_8_ExtrudedTrackMesh_Curve_140_1.phys">
+			<transform 30="403.040039" 31="15" 32="217.160156"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 00="0.07054001" 02="0.997508943" 20="-0.997508943" 22="0.07054001" 30="-174.943359" 31="0.7061299" 32="456.768555"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_2.phys">
+			<transform 30="-180.9502" 31="-0.94430393" 32="458.307617"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_big_3.phys">
+			<transform 00="-0.317529917" 01="0.5674676" 02="-0.7597072" 10="-0.524213552" 11="0.5625646" 12="0.6393129" 20="0.790174" 21="0.60125" 22="0.118843161" 30="-151.977539" 31="8.677866" 32="449.464844"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_3_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 30="-147.734375" 31="9.927478" 32="449.8496"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_4_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_4.phys">
+			<transform 00="-0.989269733" 02="0.146090016" 20="-0.146090016" 22="-0.989269733" 30="-145.15332" 31="10.6090384" 32="449.6338"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_5_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_11_8/nso_mod/fauna + terra/rocks/rock_big_3__StaticObject_5_phys.phys">
+			<transform 00="0.919478834" 01="0.288577616" 02="-0.266986132" 10="-0.299447477" 11="0.954112768" 12="-6.70552254E-08" 20="0.254734874" 21="0.0799483955" 22="0.963700354" 30="-141.429688" 31="11.01572" 32="446.7334"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_6_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.phys">
+			<transform 30="-147.036133" 31="6.81953669" 32="456.49707"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_7_phys" _CT_loadIgnore="true" file_name="nso_mod/meshes/fauna + terra/rocks/rock_small_3.phys">
+			<transform 00="0.158278152" 02="0.9873946" 20="-0.9873946" 22="0.158278152" 30="-152.328125" 31="11.0019836" 32="440.567383"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks>
+		<track id="Curve#139_Track#0_S#0_#0" _CT_loadIgnore="true">
+			<transform 30="-659.0801" 31="15.04" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#0_#1"/>
+				<link id="Curve#404_Track#0_S#0_#23_TileBorderCrossing"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="-459.080078" 31="15.04" 32="208.320313"/>
+			<links>
+				<link id="Curve#139_Track#0_S#0_#0"/>
+				<link id="Curve#139_Track#0_S#0_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#0_#2" _CT_loadIgnore="true">
+			<transform 30="-427.290039" 31="15.0400009" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#0_#1"/>
+				<link id="Curve#139_Track#0_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="-227.290039" 31="15.0400009" 32="208.320313"/>
+			<links>
+				<link id="Curve#139_Track#0_S#0_#2"/>
+				<link id="Curve#139_Track#0_S#1_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#1_#2" _CT_loadIgnore="true">
+			<transform 30="-195.5" 31="15.04" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#1_#1"/>
+				<link id="Curve#139_Track#0_S#2_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#2_#1" _CT_loadIgnore="true">
+			<transform 30="-20" 31="15.04" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#1_#2"/>
+				<link id="Curve#139_Track#0_S#2_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#2_#2" _CT_loadIgnore="true">
+			<transform 30="36.29004" 31="15.04" 32="208.320313"/>
+			<links>
+				<link id="Curve#139_Track#0_S#2_#1"/>
+				<link id="Curve#139_Track#0_S#3_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#3_#1" _CT_loadIgnore="true">
+			<transform 30="236.290039" 31="15.04" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#2_#2"/>
+				<link id="Curve#139_Track#0_S#3_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#0_S#3_#2" _CT_loadIgnore="true">
+			<transform 30="268.080078" 31="15.04" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#3_#1"/>
+				<link id="Curve#140_Track#0_S#0_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#0_#0" _CT_loadIgnore="true">
+			<transform 30="-659.0801" 31="15.04" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#0_#1"/>
+				<link id="Curve#404_Track#1_S#0_#23_TileBorderCrossing"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="-459.080078" 31="15.04" 32="203.570313"/>
+			<links>
+				<link id="Curve#139_Track#1_S#0_#0"/>
+				<link id="Curve#139_Track#1_S#0_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#0_#2" _CT_loadIgnore="true">
+			<transform 30="-427.290039" 31="15.0400009" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#0_#1"/>
+				<link id="Curve#139_Track#1_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="-227.290039" 31="15.0400009" 32="203.570313"/>
+			<links>
+				<link id="Curve#139_Track#1_S#0_#2"/>
+				<link id="Curve#139_Track#1_S#1_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#1_#2" _CT_loadIgnore="true">
+			<transform 30="-195.5" 31="15.04" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#1_#1"/>
+				<link id="Curve#139_Track#1_S#2_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#2_#1" _CT_loadIgnore="true">
+			<transform 30="-20" 31="15.04" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#1_#2"/>
+				<link id="Curve#139_Track#1_S#2_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#2_#2" _CT_loadIgnore="true">
+			<transform 30="36.29004" 31="15.04" 32="203.570313"/>
+			<links>
+				<link id="Curve#139_Track#1_S#2_#1"/>
+				<link id="Curve#139_Track#1_S#3_#1"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#3_#1" _CT_loadIgnore="true">
+			<transform 30="236.290039" 31="15.04" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#2_#2"/>
+				<link id="Curve#139_Track#1_S#3_#2"/>
+			</links>
+		</track>
+		<track id="Curve#139_Track#1_S#3_#2" _CT_loadIgnore="true">
+			<transform 30="268.080078" 31="15.04" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#3_#1"/>
+				<link id="Curve#140_Track#1_S#0_#1"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="272.0752" 31="15.04" 32="208.324219"/>
+			<links>
+				<link id="Curve#139_Track#0_S#3_#2"/>
+				<link id="Curve#140_Track#0_S#0_#2"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#10" _CT_loadIgnore="true">
+			<transform 30="308.02832" 31="15.0400009" 32="208.725586"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#11"/>
+				<link id="Curve#140_Track#0_S#0_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#11" _CT_loadIgnore="true">
+			<transform 30="312.022461" 31="15.04" 32="208.8125"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#10"/>
+				<link id="Curve#140_Track#0_S#0_#12"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#12" _CT_loadIgnore="true">
+			<transform 30="316.015625" 31="15.0400009" 32="208.907227"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#11"/>
+				<link id="Curve#140_Track#0_S#0_#13"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#13" _CT_loadIgnore="true">
+			<transform 30="320.009766" 31="15.0400009" 32="209.010742"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#12"/>
+				<link id="Curve#140_Track#0_S#0_#14"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#14" _CT_loadIgnore="true">
+			<transform 30="324.00293" 31="15.0400009" 32="209.124023"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#13"/>
+				<link id="Curve#140_Track#0_S#0_#15"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#15" _CT_loadIgnore="true">
+			<transform 30="327.995117" 31="15.04" 32="209.245117"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#14"/>
+				<link id="Curve#140_Track#0_S#0_#16"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#16" _CT_loadIgnore="true">
+			<transform 30="331.988281" 31="15.0400009" 32="209.375977"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#15"/>
+				<link id="Curve#140_Track#0_S#0_#17"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#17" _CT_loadIgnore="true">
+			<transform 30="335.980469" 31="15.0400019" 32="209.515625"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#16"/>
+				<link id="Curve#140_Track#0_S#0_#18"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#18" _CT_loadIgnore="true">
+			<transform 30="339.972656" 31="15.039999" 32="209.662109"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#17"/>
+				<link id="Curve#140_Track#0_S#0_#19"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#19" _CT_loadIgnore="true">
+			<transform 30="343.963867" 31="15.0399981" 32="209.819336"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#18"/>
+				<link id="Curve#140_Track#0_S#0_#20"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#2" _CT_loadIgnore="true">
+			<transform 30="276.0703" 31="15.0400009" 32="208.335938"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#1"/>
+				<link id="Curve#140_Track#0_S#0_#3"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#20" _CT_loadIgnore="true">
+			<transform 30="347.955078" 31="15.039999" 32="209.985352"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#19"/>
+				<link id="Curve#140_Track#0_S#0_#21"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#21" _CT_loadIgnore="true">
+			<transform 30="351.9453" 31="15.0400009" 32="210.163086"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#20"/>
+				<link id="Curve#140_Track#0_S#0_#22"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#22" _CT_loadIgnore="true">
+			<transform 30="355.935547" 31="15.0400009" 32="210.34668"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#21"/>
+				<link id="Curve#140_Track#0_S#0_#23"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#23" _CT_loadIgnore="true">
+			<transform 30="359.925781" 31="15.04" 32="210.541016"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#22"/>
+				<link id="Curve#140_Track#0_S#0_#24"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#24" _CT_loadIgnore="true">
+			<transform 30="363.914063" 31="15.039999" 32="210.7461"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#23"/>
+				<link id="Curve#140_Track#0_S#0_#25"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#25" _CT_loadIgnore="true">
+			<transform 30="367.90332" 31="15.039999" 32="210.958008"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#24"/>
+				<link id="Curve#140_Track#0_S#0_#26"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#26" _CT_loadIgnore="true">
+			<transform 30="371.890625" 31="15.0400009" 32="211.182617"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#25"/>
+				<link id="Curve#140_Track#0_S#0_#27"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#27" _CT_loadIgnore="true">
+			<transform 30="375.87793" 31="15.0400019" 32="211.416992"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#26"/>
+				<link id="Curve#140_Track#0_S#0_#28"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#28" _CT_loadIgnore="true">
+			<transform 30="379.864258" 31="15.0400009" 32="211.65918"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#27"/>
+				<link id="Curve#140_Track#0_S#0_#29"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#29" _CT_loadIgnore="true">
+			<transform 30="383.8506" 31="15.04" 32="211.911133"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#28"/>
+				<link id="Curve#140_Track#0_S#0_#30"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#3" _CT_loadIgnore="true">
+			<transform 30="280.06543" 31="15.04" 32="208.355469"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#2"/>
+				<link id="Curve#140_Track#0_S#0_#4"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#30" _CT_loadIgnore="true">
+			<transform 30="387.835938" 31="15.0399981" 32="212.173828"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#29"/>
+				<link id="Curve#140_Track#0_S#0_#31"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#31" _CT_loadIgnore="true">
+			<transform 30="391.8213" 31="15.04" 32="212.447266"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#30"/>
+				<link id="Curve#140_Track#0_S#0_#32"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#32" _CT_loadIgnore="true">
+			<transform 30="395.8037" 31="15.039999" 32="212.731445"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#31"/>
+				<link id="Curve#140_Track#0_S#0_#33"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#33" _CT_loadIgnore="true">
+			<transform 30="403.392578" 31="15.04" 32="213.2998"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#32"/>
+				<link id="Curve#140_Track#0_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#4" _CT_loadIgnore="true">
+			<transform 30="284.060547" 31="15.0400009" 32="208.383789"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#3"/>
+				<link id="Curve#140_Track#0_S#0_#5"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#5" _CT_loadIgnore="true">
+			<transform 30="288.055664" 31="15.04" 32="208.419922"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#4"/>
+				<link id="Curve#140_Track#0_S#0_#6"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#6" _CT_loadIgnore="true">
+			<transform 30="292.0498" 31="15.04" 32="208.46582"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#5"/>
+				<link id="Curve#140_Track#0_S#0_#7"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#7" _CT_loadIgnore="true">
+			<transform 30="296.044922" 31="15.0400009" 32="208.517578"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#6"/>
+				<link id="Curve#140_Track#0_S#0_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#8" _CT_loadIgnore="true">
+			<transform 30="300.040039" 31="15.0400009" 32="208.580078"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#7"/>
+				<link id="Curve#140_Track#0_S#0_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#0_#9" _CT_loadIgnore="true">
+			<transform 30="304.03418" 31="15.0400009" 32="208.649414"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#10"/>
+				<link id="Curve#140_Track#0_S#0_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="407.374023" 31="15.0400009" 32="213.613281"/>
+			<links>
+				<link id="Curve#140_Track#0_S#0_#33"/>
+				<link id="Curve#140_Track#0_S#1_#2"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#10" _CT_loadIgnore="true">
+			<transform 30="443.15918" 31="15.039999" 32="216.931641"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#11"/>
+				<link id="Curve#140_Track#0_S#1_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#11" _CT_loadIgnore="true">
+			<transform 30="447.129883" 31="15.04" 32="217.356445"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#10"/>
+				<link id="Curve#140_Track#0_S#1_#12"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#12" _CT_loadIgnore="true">
+			<transform 30="451.098633" 31="15.04" 32="217.793945"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#11"/>
+				<link id="Curve#140_Track#0_S#1_#13"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#13" _CT_loadIgnore="true">
+			<transform 30="455.06543" 31="15.04" 32="218.243164"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#12"/>
+				<link id="Curve#140_Track#0_S#1_#14"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#14" _CT_loadIgnore="true">
+			<transform 30="459.03125" 31="15.04" 32="218.705078"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#13"/>
+				<link id="Curve#140_Track#0_S#1_#15"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#15" _CT_loadIgnore="true">
+			<transform 30="462.995117" 31="15.0400009" 32="219.179688"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#14"/>
+				<link id="Curve#140_Track#0_S#1_#16"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#16" _CT_loadIgnore="true">
+			<transform 30="466.958984" 31="15.04" 32="219.666992"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#15"/>
+				<link id="Curve#140_Track#0_S#1_#17"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#17" _CT_loadIgnore="true">
+			<transform 30="470.918945" 31="15.04" 32="220.166016"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#16"/>
+				<link id="Curve#140_Track#0_S#1_#18"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#18" _CT_loadIgnore="true">
+			<transform 30="474.8789" 31="15.04" 32="220.679688"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#17"/>
+				<link id="Curve#140_Track#0_S#1_#19"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#19" _CT_loadIgnore="true">
+			<transform 30="478.835938" 31="15.04" 32="221.2041"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#18"/>
+				<link id="Curve#140_Track#0_S#1_#20"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#2" _CT_loadIgnore="true">
+			<transform 30="411.3545" 31="15.04" 32="213.938477"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#1"/>
+				<link id="Curve#140_Track#0_S#1_#3"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#20" _CT_loadIgnore="true">
+			<transform 30="482.792" 31="15.04" 32="221.743164"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#19"/>
+				<link id="Curve#140_Track#0_S#1_#21"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#21" _CT_loadIgnore="true">
+			<transform 30="486.745117" 31="15.039999" 32="222.294922"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#20"/>
+				<link id="Curve#140_Track#0_S#1_#22"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#22" _CT_loadIgnore="true">
+			<transform 30="490.6963" 31="15.04" 32="222.860352"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#21"/>
+				<link id="Curve#140_Track#0_S#1_#23"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#23" _CT_loadIgnore="true">
+			<transform 30="494.6455" 31="15.04" 32="223.44043"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#22"/>
+				<link id="Curve#140_Track#0_S#1_#24"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#24" _CT_loadIgnore="true">
+			<transform 30="498.592773" 31="15.04" 32="224.032227"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#23"/>
+				<link id="Curve#140_Track#0_S#1_#25"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#25" _CT_loadIgnore="true">
+			<transform 30="502.5381" 31="15.04" 32="224.640625"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#24"/>
+				<link id="Curve#140_Track#0_S#1_#26"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#26" _CT_loadIgnore="true">
+			<transform 30="506.480469" 31="15.04" 32="225.2627"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#25"/>
+				<link id="Curve#140_Track#0_S#1_#27"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#27" _CT_loadIgnore="true">
+			<transform 30="510.4209" 31="15.04" 32="225.897461"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#26"/>
+				<link id="Curve#140_Track#0_S#1_#28"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#28" _CT_loadIgnore="true">
+			<transform 30="514.3584" 31="15.04" 32="226.5498"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#27"/>
+				<link id="Curve#140_Track#0_S#1_#29"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#29" _CT_loadIgnore="true">
+			<transform 30="518.292969" 31="15.04" 32="227.214844"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#28"/>
+				<link id="Curve#140_Track#0_S#1_#30"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#3" _CT_loadIgnore="true">
+			<transform 30="415.333984" 31="15.04" 32="214.273438"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#2"/>
+				<link id="Curve#140_Track#0_S#1_#4"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#30" _CT_loadIgnore="true">
+			<transform 30="522.2246" 31="15.04" 32="227.896484"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#29"/>
+				<link id="Curve#140_Track#0_S#1_#31"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#31" _CT_loadIgnore="true">
+			<transform 30="526.1533" 31="15.04" 32="228.59375"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#30"/>
+				<link id="Curve#140_Track#0_S#1_#32"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#32" _CT_loadIgnore="true">
+			<transform 30="530.081055" 31="15.04" 32="229.306641"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#31"/>
+				<link id="Curve#140_Track#0_S#1_#33"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#33" _CT_loadIgnore="true">
+			<transform 30="537.552734" 31="15.04" 32="230.708008"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#32"/>
+				<link id="Curve#141_Track#0_S#0_#1_TileBorderCrossing"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#4" _CT_loadIgnore="true">
+			<transform 30="419.3125" 31="15.04" 32="214.619141"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#3"/>
+				<link id="Curve#140_Track#0_S#1_#5"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#5" _CT_loadIgnore="true">
+			<transform 30="423.289063" 31="15.04" 32="214.976563"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#4"/>
+				<link id="Curve#140_Track#0_S#1_#6"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#6" _CT_loadIgnore="true">
+			<transform 30="427.265625" 31="15.04" 32="215.34375"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#5"/>
+				<link id="Curve#140_Track#0_S#1_#7"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#7" _CT_loadIgnore="true">
+			<transform 30="431.240234" 31="15.04" 32="215.723633"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#6"/>
+				<link id="Curve#140_Track#0_S#1_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#8" _CT_loadIgnore="true">
+			<transform 30="435.214844" 31="15.04" 32="216.114258"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#7"/>
+				<link id="Curve#140_Track#0_S#1_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#0_S#1_#9" _CT_loadIgnore="true">
+			<transform 30="439.1875" 31="15.039999" 32="216.517578"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#10"/>
+				<link id="Curve#140_Track#0_S#1_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#1" _CT_loadIgnore="true">
+			<transform 30="272.084961" 31="15.04" 32="203.574219"/>
+			<links>
+				<link id="Curve#139_Track#1_S#3_#2"/>
+				<link id="Curve#140_Track#1_S#0_#2"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#10" _CT_loadIgnore="true">
+			<transform 30="308.125977" 31="15.0400009" 32="203.977539"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#11"/>
+				<link id="Curve#140_Track#1_S#0_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#11" _CT_loadIgnore="true">
+			<transform 30="312.129883" 31="15.04" 32="204.064453"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#10"/>
+				<link id="Curve#140_Track#1_S#0_#12"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#12" _CT_loadIgnore="true">
+			<transform 30="316.134766" 31="15.0400009" 32="204.15918"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#11"/>
+				<link id="Curve#140_Track#1_S#0_#13"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#13" _CT_loadIgnore="true">
+			<transform 30="320.138672" 31="15.0400009" 32="204.2627"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#12"/>
+				<link id="Curve#140_Track#1_S#0_#14"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#14" _CT_loadIgnore="true">
+			<transform 30="324.1416" 31="15.0400009" 32="204.375977"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#13"/>
+				<link id="Curve#140_Track#1_S#0_#15"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#15" _CT_loadIgnore="true">
+			<transform 30="328.1455" 31="15.04" 32="204.49707"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#14"/>
+				<link id="Curve#140_Track#1_S#0_#16"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#16" _CT_loadIgnore="true">
+			<transform 30="332.148438" 31="15.0400009" 32="204.62793"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#15"/>
+				<link id="Curve#140_Track#1_S#0_#17"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#17" _CT_loadIgnore="true">
+			<transform 30="336.1504" 31="15.0400019" 32="204.769531"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#16"/>
+				<link id="Curve#140_Track#1_S#0_#18"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#18" _CT_loadIgnore="true">
+			<transform 30="340.1543" 31="15.039999" 32="204.916016"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#17"/>
+				<link id="Curve#140_Track#1_S#0_#19"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#19" _CT_loadIgnore="true">
+			<transform 30="344.157227" 31="15.0399981" 32="205.073242"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#18"/>
+				<link id="Curve#140_Track#1_S#0_#20"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#2" _CT_loadIgnore="true">
+			<transform 30="276.089844" 31="15.0400009" 32="203.585938"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#1"/>
+				<link id="Curve#140_Track#1_S#0_#3"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#20" _CT_loadIgnore="true">
+			<transform 30="348.1582" 31="15.039999" 32="205.239258"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#19"/>
+				<link id="Curve#140_Track#1_S#0_#21"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#21" _CT_loadIgnore="true">
+			<transform 30="352.160156" 31="15.0400009" 32="205.416992"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#20"/>
+				<link id="Curve#140_Track#1_S#0_#22"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#22" _CT_loadIgnore="true">
+			<transform 30="356.1621" 31="15.0400009" 32="205.602539"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#21"/>
+				<link id="Curve#140_Track#1_S#0_#23"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#23" _CT_loadIgnore="true">
+			<transform 30="360.1621" 31="15.04" 32="205.796875"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#22"/>
+				<link id="Curve#140_Track#1_S#0_#24"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#24" _CT_loadIgnore="true">
+			<transform 30="364.1621" 31="15.039999" 32="206.001953"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#23"/>
+				<link id="Curve#140_Track#1_S#0_#25"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#25" _CT_loadIgnore="true">
+			<transform 30="368.1631" 31="15.039999" 32="206.21582"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#24"/>
+				<link id="Curve#140_Track#1_S#0_#26"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#26" _CT_loadIgnore="true">
+			<transform 30="372.1621" 31="15.0400009" 32="206.44043"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#25"/>
+				<link id="Curve#140_Track#1_S#0_#27"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#27" _CT_loadIgnore="true">
+			<transform 30="376.161133" 31="15.0400019" 32="206.6748"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#26"/>
+				<link id="Curve#140_Track#1_S#0_#28"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#28" _CT_loadIgnore="true">
+			<transform 30="380.15918" 31="15.0400009" 32="206.918945"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#27"/>
+				<link id="Curve#140_Track#1_S#0_#29"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#29" _CT_loadIgnore="true">
+			<transform 30="384.157227" 31="15.04" 32="207.1709"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#28"/>
+				<link id="Curve#140_Track#1_S#0_#30"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#3" _CT_loadIgnore="true">
+			<transform 30="280.094727" 31="15.04" 32="203.605469"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#2"/>
+				<link id="Curve#140_Track#1_S#0_#4"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#30" _CT_loadIgnore="true">
+			<transform 30="388.1543" 31="15.0399981" 32="207.4336"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#29"/>
+				<link id="Curve#140_Track#1_S#0_#31"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#31" _CT_loadIgnore="true">
+			<transform 30="392.151367" 31="15.04" 32="207.708984"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#30"/>
+				<link id="Curve#140_Track#1_S#0_#32"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#32" _CT_loadIgnore="true">
+			<transform 30="396.147461" 31="15.039999" 32="207.993164"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#31"/>
+				<link id="Curve#140_Track#1_S#0_#33"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#33" _CT_loadIgnore="true">
+			<transform 30="403.759766" 31="15.04" 32="208.563477"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#32"/>
+				<link id="Curve#140_Track#1_S#1_#1"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#4" _CT_loadIgnore="true">
+			<transform 30="284.0996" 31="15.0400009" 32="203.633789"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#3"/>
+				<link id="Curve#140_Track#1_S#0_#5"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#5" _CT_loadIgnore="true">
+			<transform 30="288.1045" 31="15.04" 32="203.669922"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#4"/>
+				<link id="Curve#140_Track#1_S#0_#6"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#6" _CT_loadIgnore="true">
+			<transform 30="292.1084" 31="15.04" 32="203.71582"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#5"/>
+				<link id="Curve#140_Track#1_S#0_#7"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#7" _CT_loadIgnore="true">
+			<transform 30="296.113281" 31="15.0400009" 32="203.767578"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#6"/>
+				<link id="Curve#140_Track#1_S#0_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#8" _CT_loadIgnore="true">
+			<transform 30="300.118164" 31="15.0400009" 32="203.830078"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#7"/>
+				<link id="Curve#140_Track#1_S#0_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#0_#9" _CT_loadIgnore="true">
+			<transform 30="304.12207" 31="15.0400009" 32="203.899414"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#10"/>
+				<link id="Curve#140_Track#1_S#0_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#1" _CT_loadIgnore="true">
+			<transform 30="407.75293" 31="15.0400009" 32="208.8789"/>
+			<links>
+				<link id="Curve#140_Track#1_S#0_#33"/>
+				<link id="Curve#140_Track#1_S#1_#2"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#10" _CT_loadIgnore="true">
+			<transform 30="443.65918" 31="15.039999" 32="212.207031"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#11"/>
+				<link id="Curve#140_Track#1_S#1_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#11" _CT_loadIgnore="true">
+			<transform 30="447.643555" 31="15.04" 32="212.633789"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#10"/>
+				<link id="Curve#140_Track#1_S#1_#12"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#12" _CT_loadIgnore="true">
+			<transform 30="451.625977" 31="15.04" 32="213.073242"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#11"/>
+				<link id="Curve#140_Track#1_S#1_#13"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#13" _CT_loadIgnore="true">
+			<transform 30="455.6084" 31="15.04" 32="213.524414"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#12"/>
+				<link id="Curve#140_Track#1_S#1_#14"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#14" _CT_loadIgnore="true">
+			<transform 30="459.5879" 31="15.04" 32="213.988281"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#13"/>
+				<link id="Curve#140_Track#1_S#1_#15"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#15" _CT_loadIgnore="true">
+			<transform 30="463.567383" 31="15.0400009" 32="214.464844"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#14"/>
+				<link id="Curve#140_Track#1_S#1_#16"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#16" _CT_loadIgnore="true">
+			<transform 30="467.544922" 31="15.04" 32="214.9541"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#15"/>
+				<link id="Curve#140_Track#1_S#1_#17"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#17" _CT_loadIgnore="true">
+			<transform 30="471.5205" 31="15.04" 32="215.455078"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#16"/>
+				<link id="Curve#140_Track#1_S#1_#18"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#18" _CT_loadIgnore="true">
+			<transform 30="475.4961" 31="15.04" 32="215.9707"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#17"/>
+				<link id="Curve#140_Track#1_S#1_#19"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#19" _CT_loadIgnore="true">
+			<transform 30="479.46875" 31="15.04" 32="216.49707"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#18"/>
+				<link id="Curve#140_Track#1_S#1_#20"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#2" _CT_loadIgnore="true">
+			<transform 30="411.74707" 31="15.04" 32="209.2041"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#1"/>
+				<link id="Curve#140_Track#1_S#1_#3"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#20" _CT_loadIgnore="true">
+			<transform 30="483.44043" 31="15.04" 32="217.038086"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#19"/>
+				<link id="Curve#140_Track#1_S#1_#21"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#21" _CT_loadIgnore="true">
+			<transform 30="487.40918" 31="15.039999" 32="217.5918"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#20"/>
+				<link id="Curve#140_Track#1_S#1_#22"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#22" _CT_loadIgnore="true">
+			<transform 30="491.37793" 31="15.04" 32="218.15918"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#21"/>
+				<link id="Curve#140_Track#1_S#1_#23"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#23" _CT_loadIgnore="true">
+			<transform 30="495.342773" 31="15.04" 32="218.741211"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#22"/>
+				<link id="Curve#140_Track#1_S#1_#24"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#24" _CT_loadIgnore="true">
+			<transform 30="499.307617" 31="15.04" 32="219.336914"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#23"/>
+				<link id="Curve#140_Track#1_S#1_#25"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#25" _CT_loadIgnore="true">
+			<transform 30="503.268555" 31="15.04" 32="219.947266"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#24"/>
+				<link id="Curve#140_Track#1_S#1_#26"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#26" _CT_loadIgnore="true">
+			<transform 30="507.228516" 31="15.04" 32="220.571289"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#25"/>
+				<link id="Curve#140_Track#1_S#1_#27"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#27" _CT_loadIgnore="true">
+			<transform 30="511.186523" 31="15.04" 32="221.209961"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#26"/>
+				<link id="Curve#140_Track#1_S#1_#28"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#28" _CT_loadIgnore="true">
+			<transform 30="515.1416" 31="15.04" 32="221.864258"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#27"/>
+				<link id="Curve#140_Track#1_S#1_#29"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#29" _CT_loadIgnore="true">
+			<transform 30="519.0957" 31="15.04" 32="222.5332"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#28"/>
+				<link id="Curve#140_Track#1_S#1_#30"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#3" _CT_loadIgnore="true">
+			<transform 30="415.738281" 31="15.04" 32="209.541016"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#2"/>
+				<link id="Curve#140_Track#1_S#1_#4"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#30" _CT_loadIgnore="true">
+			<transform 30="523.0449" 31="15.04" 32="223.21875"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#29"/>
+				<link id="Curve#140_Track#1_S#1_#31"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#31" _CT_loadIgnore="true">
+			<transform 30="526.993164" 31="15.04" 32="223.917969"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#30"/>
+				<link id="Curve#140_Track#1_S#1_#32"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#32" _CT_loadIgnore="true">
+			<transform 30="530.9385" 31="15.04" 32="224.634766"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#31"/>
+				<link id="Curve#140_Track#1_S#1_#33"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#33" _CT_loadIgnore="true">
+			<transform 30="538.447266" 31="15.04" 32="226.043945"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#32"/>
+				<link id="Curve#141_Track#1_S#0_#1_TileBorderCrossing"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#4" _CT_loadIgnore="true">
+			<transform 30="419.730469" 31="15.04" 32="209.886719"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#3"/>
+				<link id="Curve#140_Track#1_S#1_#5"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#5" _CT_loadIgnore="true">
+			<transform 30="423.7207" 31="15.04" 32="210.2461"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#4"/>
+				<link id="Curve#140_Track#1_S#1_#6"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#6" _CT_loadIgnore="true">
+			<transform 30="427.710938" 31="15.04" 32="210.615234"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#5"/>
+				<link id="Curve#140_Track#1_S#1_#7"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#7" _CT_loadIgnore="true">
+			<transform 30="431.699219" 31="15.04" 32="210.995117"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#6"/>
+				<link id="Curve#140_Track#1_S#1_#8"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#8" _CT_loadIgnore="true">
+			<transform 30="435.6875" 31="15.04" 32="211.3877"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#7"/>
+				<link id="Curve#140_Track#1_S#1_#9"/>
+			</links>
+		</track>
+		<track id="Curve#140_Track#1_S#1_#9" _CT_loadIgnore="true">
+			<transform 30="439.673828" 31="15.039999" 32="211.792969"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#10"/>
+				<link id="Curve#140_Track#1_S#1_#8"/>
+			</links>
+		</track>
+		<track id="Curve#141_Track#0_S#0_#1_TileBorderCrossing" _CT_loadIgnore="true">
+			<transform 30="541.472656" 31="15.0400009" 32="231.4668"/>
+			<links>
+				<link id="Curve#140_Track#0_S#1_#33"/>
+			</links>
+		</track>
+		<track id="Curve#141_Track#1_S#0_#1_TileBorderCrossing" _CT_loadIgnore="true">
+			<transform 30="542.380859" 31="15.0400009" 32="226.804688"/>
+			<links>
+				<link id="Curve#140_Track#1_S#1_#33"/>
+			</links>
+		</track>
+		<track id="Curve#404_Track#0_S#0_#23_TileBorderCrossing" _CT_loadIgnore="true">
+			<transform 30="-665.081055" 31="15.03819" 32="208.319336"/>
+			<links>
+				<link id="Curve#139_Track#0_S#0_#0"/>
+			</links>
+		</track>
+		<track id="Curve#404_Track#1_S#0_#23_TileBorderCrossing" _CT_loadIgnore="true">
+			<transform 30="-665.081055" 31="15.03819" 32="203.569336"/>
+			<links>
+				<link id="Curve#139_Track#1_S#0_#0"/>
+			</links>
+		</track>
+	</train_tracks>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+

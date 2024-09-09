@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="true" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/11_1_main.mesh">
+			<transform/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/11_1_main.phys">
+			<transform/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers>
+		<markers id="tile_marker0" marker_type="8" icon="1">
+			<transform 30="-143.217468" 31="122.771416" 32="-282.637238"/>
+		</markers>
+		<markers id="tile_marker1" marker_type="8" icon="1">
+			<transform 30="133.65889" 31="44.038151" 32="-292.996094"/>
+		</markers>
+		<markers id="tile_marker2" marker_type="8" icon="1">
+			<transform 30="421.452209" 31="73.414268" 32="-327.342194"/>
+		</markers>
+		<markers id="tile_marker3" marker_type="8" icon="1">
+			<transform 30="425.252228" 31="106.838348" 32="-171.815872"/>
+		</markers>
+		<markers id="tile_marker4" marker_type="8" icon="1">
+			<transform 30="296.894257" 31="105.004257" 32="-211.972366"/>
+		</markers>
+		<markers id="tile_marker5" marker_type="8" string_data="x3" icon="1">
+			<transform 30="359.183685" 31="105.004257" 32="38.687469"/>
+		</markers>
+		<markers id="tile_marker6" marker_type="8" icon="1">
+			<transform 30="321.254517" 31="38.186821" 32="321.339813"/>
+		</markers>
+		<markers id="tile_marker7" marker_type="8" icon="1">
+			<transform 30="121.581062" 31="130.00412" 32="51.717045"/>
+		</markers>
+		<markers id="tile_marker8" marker_type="8" icon="1">
+			<transform 30="-167.025406" 31="67.314575" 32="127.129379"/>
+		</markers>
+		<markers id="tile_marker9" marker_type="8" icon="1">
+			<transform 30="-91.863052" 31="93.356766" 32="-4.533199"/>
+		</markers>
+		<markers id="tile_marker10" marker_type="8" icon="1">
+			<transform 30="-184.222229" 31="116.571732" 32="-155.707153"/>
+		</markers>
+		<markers id="tile_marker11" marker_type="8" icon="1">
+			<transform 30="-357.611389" 31="84.306221" 32="2.720269"/>
+		</markers>
+		<markers id="tile_marker12" marker_type="8" icon="1">
+			<transform 30="-37.43877" 31="102.023193" 32="42.994057"/>
+		</markers>
+		<markers id="tile_marker13" marker_type="8" string_data="x2" icon="1">
+			<transform 30="-128.783264" 31="51.291565" 32="220.099701"/>
+		</markers>
+	</tile_markers>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vehicle data_version="3" bodies_id="1">
+  <authors />
+  <bodies>
+    <body unique_id="1">
+      <components>
+				<c d="NSO_OL_0_3_C1F">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="0" />
+					</o>
+				</c></components>
+    </body>
+  </bodies>
+  <logic_node_links />
+</vehicle>

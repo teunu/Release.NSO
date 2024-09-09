@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist file_store="4" name="[LRS] Leopard's Railroad Signals - Procedural Bridge">
+	<locations location_id_counter="35" component_id_counter="58">
+		<locations>
+			<l id="20" tile="data/tiles/track_diagonal_left_fork_straight_rot_0.xml" name="track_diagonal_left_fork_straight_rot_0" is_env_mod="true">
+				<components>
+					<c component_type="10" id="27" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="-0.722203" 02="-0.691681" 20="0.691681" 22="-0.722203" 30="135.666901" 31="17.02832" 32="-127.062103"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="28" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="-0.722203" 02="-0.691681" 20="0.691681" 22="-0.722203" 30="126.817398" 31="17.02832" 32="-135.537598"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="21" tile="data/tiles/track_diagonal_left_fork_straight_rot_1.xml" name="track_diagonal_left_fork_straight_rot_1" is_env_mod="true">
+				<components>
+					<c component_type="10" id="29" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="-0.691681" 02="0.722203" 20="-0.722203" 22="-0.691681" 30="-127.062103" 31="17.02832" 32="-135.666901"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="30" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="-0.691681" 02="0.722203" 20="-0.722203" 22="-0.691681" 30="-135.537598" 31="17.02832" 32="-126.817398"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="22" tile="data/tiles/track_diagonal_left_fork_straight_rot_2.xml" name="track_diagonal_left_fork_straight_rot_2" is_env_mod="true">
+				<components>
+					<c component_type="10" id="31" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="0.722203" 02="0.691681" 20="-0.691681" 22="0.722203" 30="-135.666901" 31="17.02832" 32="127.062103"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="32" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="0.722203" 02="0.691681" 20="-0.691681" 22="0.722203" 30="-126.817299" 31="17.02832" 32="135.537598"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="23" tile="data/tiles/track_diagonal_left_fork_straight_rot_3.xml" name="track_diagonal_left_fork_straight_rot_3" is_env_mod="true">
+				<components>
+					<c component_type="10" id="33" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="0.691681" 02="-0.722203" 20="0.722203" 22="0.691681" 30="127.062103" 31="17.02832" 32="135.666901"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="34" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="0.691681" 02="-0.722203" 20="0.722203" 22="0.691681" 30="135.537598" 31="17.02832" 32="126.817398"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="24" tile="data/tiles/track_diagonal_right_fork_straight_rot_0.xml" name="track_diagonal_right_fork_straight_rot_0" is_env_mod="true">
+				<components>
+					<c component_type="10" id="35" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="-0.707951" 02="0.706262" 20="-0.706262" 22="-0.707951" 30="-126.577499" 31="17.075451" 32="-135.319305"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="36" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="-0.707951" 02="0.706262" 20="-0.706262" 22="-0.707951" 30="-135.312698" 31="17.075451" 32="-126.605003"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="25" tile="data/tiles/track_diagonal_right_fork_straight_rot_1.xml" name="track_diagonal_right_fork_straight_rot_1" is_env_mod="true">
+				<components>
+					<c component_type="10" id="37" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="0.706262" 02="0.707951" 20="-0.707951" 22="0.706262" 30="-135.319305" 31="17.075451" 32="126.577499"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="38" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="0.706262" 02="0.707951" 20="-0.707951" 22="0.706262" 30="-126.605003" 31="17.075451" 32="135.312698"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="26" tile="data/tiles/track_diagonal_right_fork_straight_rot_2.xml" name="track_diagonal_right_fork_straight_rot_2" is_env_mod="true">
+				<components>
+					<c component_type="10" id="39" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="0.707951" 02="-0.706262" 20="0.706262" 22="0.707951" 30="126.577499" 31="17.075451" 32="135.319305"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="40" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="0.707951" 02="-0.706262" 20="0.706262" 22="0.707951" 30="135.312698" 31="17.075451" 32="126.605003"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="27" tile="data/tiles/track_diagonal_right_fork_straight_rot_3.xml" name="track_diagonal_right_fork_straight_rot_3" is_env_mod="true">
+				<components>
+					<c component_type="10" id="41" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="-0.706262" 02="-0.707951" 20="0.707951" 22="-0.706262" 30="135.319305" 31="17.075451" 32="-126.577499"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="42" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="-0.706262" 02="-0.707951" 20="0.707951" 22="-0.706262" 30="126.605003" 31="17.075451" 32="-135.312698"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="28" tile="data/tiles/track_straight_fork_left_rot_0.xml" name="track_straight_fork_left_rot_0" is_env_mod="true">
+				<components>
+					<c component_type="10" id="43" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="-0.999947" 02="-0.010335" 20="0.010335" 22="-0.999947" 30="-6.217608" 31="17.10181" 32="-492.588013"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="44" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="-0.999947" 02="-0.010335" 20="0.010335" 22="-0.999947" 30="5.927106" 31="17.10181" 32="-492.699799"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="29" tile="data/tiles/track_straight_fork_left_rot_1.xml" name="track_straight_fork_left_rot_1" is_env_mod="true">
+				<components>
+					<c component_type="10" id="45" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="-0.010335" 02="0.999947" 20="-0.999947" 22="-0.010335" 30="-492.588013" 31="17.10181" 32="6.21763"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="46" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="-0.010335" 02="0.999947" 20="-0.999947" 22="-0.010335" 30="-492.699799" 31="17.10181" 32="-5.927084"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="30" tile="data/tiles/track_straight_fork_left_rot_2.xml" name="track_straight_fork_left_rot_2" is_env_mod="true">
+				<components>
+					<c component_type="10" id="47" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="0.999947" 02="0.010335" 20="-0.010335" 22="0.999947" 30="6.217651" 31="17.10181" 32="492.588013"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="48" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="0.999947" 02="0.010335" 20="-0.010335" 22="0.999947" 30="-5.927063" 31="17.10181" 32="492.699799"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="31" tile="data/tiles/track_straight_fork_left_rot_3.xml" name="track_straight_fork_left_rot_3" is_env_mod="true">
+				<components>
+					<c component_type="10" id="49" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #0">
+						<spawn_transform 00="0.010335" 02="-0.999947" 20="0.999947" 22="0.010335" 30="492.588013" 31="17.10181" 32="-6.217614"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="50" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=left" display_name="Signal #1">
+						<spawn_transform 00="0.010335" 02="-0.999947" 20="0.999947" 22="0.010335" 30="492.699799" 31="17.10181" 32="5.9271"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="32" tile="data/tiles/track_straight_fork_right_rot_0.xml" name="track_straight_fork_right_rot_0" is_env_mod="true">
+				<components>
+					<c component_type="10" id="51" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="-1" 22="-1" 30="-6.174547" 31="17.08732" 32="-492.297485"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="52" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="-1" 22="-1" 30="6.194668" 31="17.08732" 32="-492.297485"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="33" tile="data/tiles/track_straight_fork_right_rot_1.xml" name="track_straight_fork_right_rot_1" is_env_mod="true">
+				<components>
+					<c component_type="10" id="53" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="0" 02="1" 20="-1" 22="0" 30="-492.297485" 31="17.08732" 32="6.174569"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="54" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="0" 02="1" 20="-1" 22="0" 30="-492.297485" 31="17.08732" 32="-6.194646"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="34" tile="data/tiles/track_straight_fork_right_rot_2.xml" name="track_straight_fork_right_rot_2" is_env_mod="true">
+				<components>
+					<c component_type="10" id="55" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 30="6.17459" 31="17.08732" 32="492.297485"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="56" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 30="-6.194625" 31="17.08732" 32="492.297485"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="35" tile="data/tiles/track_straight_fork_right_rot_3.xml" name="track_straight_fork_right_rot_3" is_env_mod="true">
+				<components>
+					<c component_type="10" id="57" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #0">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="492.297485" 31="17.08732" 32="-6.174553"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="58" cargo_zone_import_cargo_type="addon=Leopards_railroad_Signals_Core,signalling_equipment,junction=right" display_name="Signal #1">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="492.297485" 31="17.08732" 32="6.194662"/>
+						<spawn_bounds>
+							<min x="-1" z="-1"/>
+							<max x="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

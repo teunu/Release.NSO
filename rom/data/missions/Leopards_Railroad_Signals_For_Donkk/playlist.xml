@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist file_store="4" name="[LRS] Leopard's Railroad Signals - Donkk">
+	<locations location_id_counter="11" component_id_counter="52">
+		<locations>
+			<l id="1" tile="data/tiles/island_33_tile_04.xml" name="island_33_tile_04" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="4" cargo_zone_import_cargo_type="id_4,addon=LRS_Donkk,signalling_equipment,junction=EL_left">
+						<spawn_transform 00="-0.4806215" 02="0.8769282" 20="-0.8769282" 22="-0.4806215" 30="-429.9844" 31="17.27181" 32="-272.707"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="5" cargo_zone_import_cargo_type="id_5,addon=LRS_Donkk,signalling_equipment,junction=EL_left">
+						<spawn_transform 00="-0.5070764" 02="0.8619011" 20="-0.8619011" 22="-0.5070764" 30="-435.7061" 31="17.27459" 32="-262.7148"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="36" cargo_zone_import_cargo_type="id_36,addon=LRS_Donkk,signalling_equipment,junction=EL_symmetric">
+						<spawn_transform 30="-5.583984" 31="17.2765" 32="477.7969"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="37" cargo_zone_import_cargo_type="id_37,addon=LRS_Donkk,signalling_equipment,junction=EL_symmetric">
+						<spawn_transform 30="5.774414" 31="17.26435" 32="477.6016"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="2" tile="data/tiles/island_33_tile_05.xml" name="island_33_tile_05" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="6" cargo_zone_import_cargo_type="id_6,addon=LRS_Donkk,signalling_equipment,junction=EL_right">
+						<spawn_transform 00="0.2035711" 02="-0.9790602" 20="0.9790602" 22="0.2035711" 30="-385.791" 31="17.2628" 32="119.8867"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="7" cargo_zone_import_cargo_type="id_7,addon=LRS_Donkk,signalling_equipment,junction=EL_right">
+						<spawn_transform 00="0.1924894" 02="-0.9812991" 20="0.9812991" 22="0.1924894" 30="-388.6621" 31="17.2585" 32="130.4453"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="18" cargo_zone_import_cargo_type="id_18,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="0.1911516" 02="-0.9815605" 20="0.9815605" 22="0.1911516" 30="-375.875" 31="17.23154" 32="133.0273"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="19" cargo_zone_import_cargo_type="id_19,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="0.2174118" 02="-0.9760799" 20="0.9760799" 22="0.2174118" 30="-372.5288" 31="17.23789" 32="123.0859"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="28" cargo_zone_import_cargo_type="id_28,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="0.1439672" 02="-0.9895825" 20="0.9895825" 22="0.1439672" 30="205.4038" 31="17.24799" 32="233.4092"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="29" cargo_zone_import_cargo_type="id_29,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="0.1117681" 02="-0.9937343" 20="0.9937343" 22="0.1117681" 30="206.6606" 31="17.25541" 32="223.1074"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="3" tile="data/tiles/island_33_tile_32.xml" name="island_33_tile_32" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="1" cargo_zone_import_cargo_type="id_1,addon=LRS_Donkk,signalling_equipment,junction=EL_right">
+						<spawn_transform 00="0.3579701" 02="0.933733" 20="-0.933733" 22="0.3579701" 30="-197.3496" 31="17.26817" 32="321.7598"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="2" cargo_zone_import_cargo_type="_CT_Load_spawnable_components_from_playlist=__user__/nso_objects" display_name="Include vehicles for alignment">
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="3" cargo_zone_import_cargo_type="id_3,addon=LRS_Donkk,signalling_equipment,junction=EL_left">
+						<spawn_transform 00="0.3492804" 02="0.9370183" 20="-0.9370183" 22="0.3492804" 30="-193.7461" 31="17.27213" 32="331.8379"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="10" cargo_zone_import_cargo_type="id_10,addon=LRS_Donkk,signalling_equipment,junction=EL_right">
+						<spawn_transform 00="-0.320481" 02="-0.947255" 20="0.947255" 22="-0.320481" 30="-221.0615" 31="17.26825" 32="330.5596"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="11" cargo_zone_import_cargo_type="id_11,addon=LRS_Donkk,signalling_equipment,junction=EL_right">
+						<spawn_transform 00="0.3444902" 02="0.9387899" 20="-0.9387899" 22="0.3444902" 30="-285.4629" 31="17.25098" 32="367.4033"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="4" tile="data/tiles/island_33_tile_end.xml" name="island_33_tile_end" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="8" cargo_zone_import_cargo_type="id_8,addon=LRS_Donkk,signalling_equipment,junction=EL_right,junction_initial_state=left">
+						<spawn_transform 00="0.6550181" 02="0.7556132" 20="-0.7556132" 22="0.6550181" 30="-125.8203" 31="16.26944" 32="263.875"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="9" cargo_zone_import_cargo_type="id_9,addon=LRS_Donkk,signalling_equipment,junction=EL_left">
+						<spawn_transform 00="0.6508481" 02="0.759208" 20="-0.759208" 22="0.6508481" 30="-119.8779" 31="16.26821" 32="270.8623"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="12" cargo_zone_import_cargo_type="id_12,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="0.6481149" 02="0.7615425" 20="-0.7615425" 22="0.6481149" 30="87.99512" 31="17.38397" 32="78.4873"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="13" cargo_zone_import_cargo_type="id_13,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="0.6411018" 02="0.7674558" 20="-0.7674558" 22="0.6411018" 30="94.69238" 31="17.38615" 32="86.4707"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="20" cargo_zone_import_cargo_type="id_20,addon=LRS_Donkk,signalling_equipment,signal=HV_Esig">
+						<spawn_transform 00="0.6156615" 02="0.7880107" 20="-0.7880107" 22="0.6156615" 30="-246.95" 31="17.23" 32="363.54"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="21" cargo_zone_import_cargo_type="id_21,addon=LRS_Donkk,signalling_equipment,signal=HV_Esig">
+						<spawn_transform 00="0.6156615" 02="0.7880107" 20="-0.7880107" 22="0.6156615" 30="-239.9" 31="17.23" 32="371.2"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="22" cargo_zone_import_cargo_type="id_22,addon=LRS_Donkk,signalling_equipment,signal=HV_Esig">
+						<spawn_transform 00="-0.6672981" 02="-0.7447907" 20="0.7447907" 22="-0.6672981" 30="154.5393" 31="17.35375" 32="35.08691"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="23" cargo_zone_import_cargo_type="id_23,addon=LRS_Donkk,signalling_equipment,signal=HV_Esig">
+						<spawn_transform 00="-0.6614147" 02="-0.7500204" 20="0.7500204" 22="-0.6614147" 30="148.1777" 31="17.38081" 32="26.80664"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="38" cargo_zone_import_cargo_type="id_38,addon=LRS_Donkk,signalling_equipment,junction=EL_right,junction_initial_state=left">
+						<spawn_transform 00="0.6311356" 02="0.7756724" 20="-0.7756724" 22="0.6311356" 30="-192.4402" 31="17.26701" 32="333.3438"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="39" cargo_zone_import_cargo_type="id_39,addon=LRS_Donkk,signalling_equipment,junction=EL_right,junction_initial_state=left">
+						<spawn_transform 00="-0.6472712" 02="-0.7622598" 20="0.7622598" 22="-0.6472712" 30="-142.3594" 31="17.20599" 32="277.8096"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="44" cargo_zone_import_cargo_type="id_44,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="-0.6427877" 02="-0.7660444" 20="0.7660444" 22="-0.6427877" 30="-231.1" 31="17.251" 32="350.8"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="45" cargo_zone_import_cargo_type="id_45,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="-0.6427877" 02="-0.7660444" 20="0.7660444" 22="-0.6427877" 30="-224.6" 31="17.251" 32="358.9"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="4" tile="data/tiles/island_33_tile_13.xml" name="island_33_tile_13" is_env_mod="true">
+				<components>
+					<c component_type="10" id="14" cargo_zone_import_cargo_type="id_14,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="-0.4751836" 02="0.8798867" 20="-0.8798867" 22="-0.4751836" 30="56.25122" 31="17.24311" 32="453.4746"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="15" cargo_zone_import_cargo_type="id_15,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="-0.4621859" 02="0.886783" 20="-0.886783" 22="-0.4621859" 30="51.85059" 31="17.24736" 32="462.9258"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="5" tile="data/tiles/island_33_tile_12.xml" name="island_33_tile_12" is_env_mod="true">
+				<components>
+					<c component_type="10" id="16" cargo_zone_import_cargo_type="id_16,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig_Vsig">
+						<spawn_transform 00="-0.4866485" 02="0.8735979" 20="-0.8735979" 22="-0.4866485" 30="166.5493" 31="17.22716" 32="-51.7793"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="17" cargo_zone_import_cargo_type="id_17,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig_Vsig">
+						<spawn_transform 00="-0.4610267" 02="0.8873863" 11="0.9999999" 20="-0.8873863" 22="-0.4610267" 30="161.5181" 31="17.23891" 32="-42.45605"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="30" cargo_zone_import_cargo_type="id_30,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="0.4900513" 02="-0.8716936" 20="0.8716936" 22="0.4900513" 30="94.18384" 31="17.26275" 32="-80.09082"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="31" cargo_zone_import_cargo_type="id_31,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="0.4771858" 02="-0.8788024" 20="0.8788024" 22="0.4771858" 30="99.38745" 31="17.25925" 32="-89.09961"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="6" tile="data/tiles/island_33_tile_07.xml" name="island_33_tile_07" is_env_mod="true">
+				<components>
+					<c component_type="10" id="24" cargo_zone_import_cargo_type="id_24,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="-0.2419218" 02="-0.9702957" 20="0.9702957" 22="-0.2419218" 30="173.4419" 31="17.25" 32="158.04"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="25" cargo_zone_import_cargo_type="id_25,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="-0.2419218" 02="-0.9702957" 20="0.9702957" 22="-0.2419218" 30="170.8657" 31="17.25" 32="148.25"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="26" cargo_zone_import_cargo_type="id_26,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="0.2079114" 02="0.9781476" 20="-0.9781476" 22="0.2079114" 30="243.35" 31="17.25" 32="131.7"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="27" cargo_zone_import_cargo_type="id_27,addon=LRS_Donkk,signalling_equipment,signal=HV_Bksig">
+						<spawn_transform 00="0.2079114" 02="0.9781476" 20="-0.9781476" 22="0.2079114" 30="246.2476" 31="17.25" 32="141.6904"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="7" tile="data/tiles/island_33_tile_21.xml" name="island_33_tile_21" is_env_mod="true">
+				<components>
+					<c component_type="10" id="32" cargo_zone_import_cargo_type="id_32,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="0.6513867" 02="-0.758746" 20="0.758746" 22="0.6513867" 30="392.5709" 31="17.25981" 32="498.5371"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="33" cargo_zone_import_cargo_type="id_33,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="0.654135" 01="-0.0001400632" 02="-0.7563778" 10="0.002408176" 11="0.9999954" 12="0.001897477" 20="0.756374" 21="-0.003062697" 22="0.6541323" 30="398.3126" 31="17.25151" 32="489.9033"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="34" cargo_zone_import_cargo_type="id_34,addon=LRS_Donkk,signalling_equipment,signal=HV_Esig">
+						<spawn_transform 00="0.8515824" 02="0.5242208" 20="-0.5242208" 22="0.8515824" 30="223.3665" 31="17.24388" 32="-233.4082"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="35" cargo_zone_import_cargo_type="id_35,addon=LRS_Donkk,signalling_equipment,signal=HV_Esig">
+						<spawn_transform 00="0.8450667" 02="0.5346609" 20="-0.5346609" 22="0.8450667" 30="231.9679" 31="17.23963" 32="-227.5303"/>
+						<spawn_bounds>
+							<min x="-1" y="-1" z="-1"/>
+							<max x="1" y="1" z="1"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="8" tile="data/tiles/island_33_tile_end_2.xml" name="island_33_tile_end_2" is_env_mod="true">
+				<components>
+					<c component_type="10" id="40" cargo_zone_import_cargo_type="id_40,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="-0.9026635" 02="-0.4303472" 20="0.4303472" 22="-0.9026635" 30="-151.0098" 31="17.3514" 32="159.2729"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="41" cargo_zone_import_cargo_type="id_41,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="-0.9001032" 02="-0.4356766" 20="0.4356766" 22="-0.9001032" 30="-141.572" 31="17.36012" 32="163.647"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="9" tile="data/tiles/island_33_tile_08.xml" name="island_33_tile_08" is_env_mod="true">
+				<components>
+					<c component_type="10" id="42" cargo_zone_import_cargo_type="id_42,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="0.3907313" 02="0.9205048" 20="-0.9205048" 22="0.3907313" 30="-148.6" 31="17.251" 32="-67.6"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="43" cargo_zone_import_cargo_type="id_43,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="0.3907313" 02="0.9205048" 20="-0.9205048" 22="0.3907313" 30="-152.8" 31="17.251" 32="-77"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="46" cargo_zone_import_cargo_type="id_46,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="-0.4226184" 02="-0.9063078" 20="0.9063078" 22="-0.4226184" 30="-114.85" 31="17.251" 32="-83.05"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="47" cargo_zone_import_cargo_type="id_47,addon=LRS_Donkk,signalling_equipment,signal=HV_Vsig">
+						<spawn_transform 00="-0.4226184" 02="-0.9063078" 20="0.9063078" 22="-0.4226184" 30="-119.2" 31="17.251" 32="-92.4"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="10" tile="data/tiles/island_33_tile_06.xml" name="island_33_tile_06" is_env_mod="true">
+				<components>
+					<c component_type="10" id="48" cargo_zone_import_cargo_type="id_48,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="-0.03490031" 02="0.9993908" 20="-0.9993908" 22="-0.03490031" 30="-261.6772" 31="17.21" 32="272.0967"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="49" cargo_zone_import_cargo_type="id_49,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="-0.03489983" 02="0.9993908" 20="-0.9993908" 22="-0.03489983" 30="-262.1313" 31="17.21" 32="282.4668"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="50" cargo_zone_import_cargo_type="id_50,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="-50.92" 31="17.14" 32="285.94"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="51" cargo_zone_import_cargo_type="id_51,addon=LRS_Donkk,signalling_equipment,signal=HV_Asig">
+						<spawn_transform 00="0" 02="-1" 20="1" 22="0" 30="-50.61" 31="17.14" 32="275.57"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<vehicle_parent_transform 00="0" 11="0" 22="0" 33="0"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

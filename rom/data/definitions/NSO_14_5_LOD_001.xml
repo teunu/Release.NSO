@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition name="NSO_14_5_NSO_001"
+category="8"
+type="9"
+mass="1"
+value="1"
+flags="536870912"
+tags=""
+mesh_data_name="nso_mod/meshes/definitions/NSO_14_5_NSO_001.mesh"
+mesh_editor_only_name="meshes/unit_sphere.mesh"
+block_type="0"
+light_ies_map="graphics/ies/ies_default.txtr"
+>
+	<surfaces/>
+	<buoyancy_surfaces/>
+	<logic_nodes/>
+	<voxels>
+		<voxel flags="0" >
+			<position />
+			<physics_shape_rotation />
+		</voxel>
+	</voxels>
+	<tooltip_properties short_description="Mesh used for Scuffed LOD system." description="LOD Hack Mesh." />
+</definition>

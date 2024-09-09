@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vehicle data_version="3" bodies_id="1">
+  <authors />
+  <bodies>
+    <body unique_id="1">
+      <components>
+				<c d="NSO_OL_15_2_C2">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="0" />
+					</o>
+				</c>
+				<c d="NSO_OL_15_2_C2_001">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="1" />
+					</o>
+				</c>
+				<c d="no_physics">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="-1" />
+					</o>
+				</c>
+				<c d="NSO_OL_15_2_C2_002">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="2" />
+					</o>
+				</c>
+				<c d="no_physics">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="-2" />
+					</o>
+				</c>
+				<c d="NSO_OL_15_2_C2_003">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="3" />
+					</o>
+				</c>
+				<c d="no_physics">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="-3" />
+					</o>
+				</c>
+				<c d="NSO_OL_15_2_C2_004">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="4" />
+					</o>
+				</c>
+				<c d="no_physics">
+					<o r="1,0,0,0,1,0,0,0,1" sc="6">
+						<vp x="-4" />
+					</o>
+				</c></components>
+    </body>
+  </bodies>
+  <logic_node_links />
+</vehicle>

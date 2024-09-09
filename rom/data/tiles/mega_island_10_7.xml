@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition is_island="false" tile_type="2">
+	<meshes>
+		<mesh id="mesh0" file_name="nso_mod/meshes/tiles/10_7_main.mesh">
+			<transform/>
+		</mesh>
+		<mesh id="StaticObject_0" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/house_broad_red.mesh">
+			<transform 00="-0.156181931" 02="0.9877283" 20="-0.9877283" 22="-0.156181931" 30="-210.563477" 31="4.38135624" 32="204.092285"/>
+		</mesh>
+		<mesh id="StaticObject_1" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/house_broad_red.mesh">
+			<transform 00="-0.303605676" 02="0.9527977" 20="-0.9527977" 22="-0.303605676" 30="-196.436523" 31="4.25420952" 32="207.17041"/>
+		</mesh>
+		<mesh id="StaticObject_2" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/house_broad_blue.mesh">
+			<transform 30="-170.342773" 31="4.60865974" 32="183.947754"/>
+		</mesh>
+		<mesh id="StaticObject_3" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/house_broad_red.mesh">
+			<transform 30="-169.992188" 31="4.59353161" 32="170.720215"/>
+		</mesh>
+		<mesh id="StaticObject_4" _CT_loadIgnore="true" file_name="nso_mod/meshes/structures/buildings/house_broad_blue.mesh">
+			<transform 00="-0.3664924" 02="-0.930421054" 20="0.930421054" 22="-0.3664924" 30="-206.196289" 31="4.844164" 32="180.214844"/>
+		</mesh>
+	</meshes>
+	<physics_objects/>
+	<physics_meshes>
+		<physics_mesh id="physics_mesh0" file_name="nso_mod/meshes/tiles/10_7_main.phys">
+			<transform/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_0_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_7/nso_mod/structures/buildings/house_broad_red__StaticObject_0_phys.phys">
+			<transform 00="-0.156181931" 02="0.9877283" 20="-0.9877283" 22="-0.156181931" 30="-210.563477" 31="4.38135624" 32="204.092285"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_1_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_7/nso_mod/structures/buildings/house_broad_red__StaticObject_1_phys.phys">
+			<transform 00="-0.303605676" 02="0.9527977" 20="-0.9527977" 22="-0.303605676" 30="-196.436523" 31="4.25420952" 32="207.17041"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_2_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_7/nso_mod/structures/buildings/house_broad_blue__StaticObject_2_phys.phys">
+			<transform 30="-170.342773" 31="4.60865974" 32="183.947754"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_3_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_7/nso_mod/structures/buildings/house_broad_red__StaticObject_3_phys.phys">
+			<transform 30="-169.992188" 31="4.59353161" 32="170.720215"/>
+		</physics_mesh>
+		<physics_mesh id="StaticObject_4_phys" _CT_loadIgnore="true" file_name="meshes/generated_object_geom/tiles/mega_island_10_7/nso_mod/structures/buildings/house_broad_blue__StaticObject_4_phys.phys">
+			<transform 00="-0.3664924" 02="-0.930421054" 20="0.930421054" 22="-0.3664924" 30="-206.196289" 31="4.844164" 32="180.214844"/>
+		</physics_mesh>
+	</physics_meshes>
+	<physics_dynamics/>
+	<lights_omni/>
+	<lights_spot/>
+	<lights_tube/>
+	<screens/>
+	<edit_areas/>
+	<interactables/>
+	<door_logic_nodes/>
+	<light_logic_nodes/>
+	<rotation_logic_nodes/>
+	<hangar_door_logic_nodes/>
+	<audio_logic_nodes/>
+	<tile_markers/>
+	<mission_zones/>
+	<dynamic_markers/>
+	<ladders/>
+	<perches/>
+	<fires/>
+	<train_tracks/>
+	<volcano_markers/>
+	<mineral_rocks/>
+</definition>
+
